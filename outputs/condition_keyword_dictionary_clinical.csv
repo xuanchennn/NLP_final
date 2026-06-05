@@ -1,0 +1,201 @@
+﻿condition,keyword,score,rank
+Digestive Issues,fecal,0.07091646075196628,1
+Digestive Issues,ibd,0.06957695419803926,2
+Digestive Issues,vomiting,0.06876942788591177,3
+Digestive Issues,pancreatitis,0.06655994365801494,4
+Digestive Issues,diarrhea,0.06633532277886325,5
+Digestive Issues,gastric,0.06307706059471538,6
+Digestive Issues,motility,0.06307706059471538,7
+Digestive Issues,feeding,0.06307706059471538,8
+Digestive Issues,bowel,0.06307706059471538,9
+Digestive Issues,obstruction,0.06307706059471538,10
+Digestive Issues,fecal culture,0.05895768426148312,11
+Digestive Issues,colitis,0.05895768426148312,12
+Digestive Issues,bile,0.05895768426148312,13
+Digestive Issues,constipation,0.05895768426148312,14
+Digestive Issues,fluids,0.05613424855485015,15
+Digestive Issues,large bowel,0.05391597509466213,16
+Digestive Issues,bile acids,0.05391597509466213,17
+Digestive Issues,large bowel diarrhea,0.05391597509466213,18
+Digestive Issues,pancreatic,0.05391597509466213,19
+Digestive Issues,cobalamin,0.05391597509466213,20
+Digestive Issues,level,0.05391597509466213,21
+Digestive Issues,bowel diarrhea,0.05391597509466213,22
+Digestive Issues,rectal,0.05391597509466213,23
+Digestive Issues,melena,0.05391597509466213,24
+Digestive Issues,dehydration,0.05391597509466213,25
+Digestive Issues,sucralfate,0.05391597509466213,26
+Digestive Issues,addison,0.05391597509466213,27
+Digestive Issues,foreign,0.05370014344780164,28
+Digestive Issues,lymphoma,0.05370014344780164,29
+Digestive Issues,weight loss,0.05370014344780164,30
+Digestive Issues,foreign body,0.05089017532234661,31
+Digestive Issues,diet,0.04837872834293396,32
+Digestive Issues,abdominal,0.04837872834293396,33
+Digestive Issues,ultrasound,0.04837872834293396,34
+Digestive Issues,small,0.04756668843439739,35
+Digestive Issues,hydration,0.04756668843439739,36
+Digestive Issues,stool,0.04756668843439739,37
+Digestive Issues,giardia,0.04756668843439739,38
+Digestive Issues,low,0.04756668843439739,39
+Digestive Issues,liver dysfunction,0.04741608149133827,40
+Ear Infections,ear canal,0.07609485397344593,1
+Ear Infections,ear,0.07521074602873676,2
+Ear Infections,media,0.07419491268622175,3
+Ear Infections,otitis media,0.0721137624738239,4
+Ear Infections,canal,0.07039195392619116,5
+Ear Infections,otitis,0.07029033672964104,6
+Ear Infections,vestibular,0.06981315764871703,7
+Ear Infections,middle,0.06724130026500005,8
+Ear Infections,polyp,0.06724130026500005,9
+Ear Infections,hematoma,0.06432556884268145,10
+Ear Infections,aural hematoma,0.06432556884268145,11
+Ear Infections,aural,0.06432556884268145,12
+Ear Infections,yeast,0.061392849053614015,13
+Ear Infections,flush,0.060959603940271154,14
+Ear Infections,tympanic,0.060959603940271154,15
+Ear Infections,middle ear,0.060959603940271154,16
+Ear Infections,interna,0.060959603940271154,17
+Ear Infections,tympanic membrane,0.060959603940271154,18
+Ear Infections,membrane,0.060959603940271154,19
+Ear Infections,drops,0.05697851244064912,20
+Ear Infections,yeast otitis,0.05697851244064912,21
+Ear Infections,vertical,0.05697851244064912,22
+Ear Infections,teca-bo,0.05697851244064912,23
+Ear Infections,central,0.05697851244064912,24
+Ear Infections,debris,0.05424985766814716,25
+Ear Infections,otitis externa,0.05213211688846133,26
+Ear Infections,externa,0.05213211688846133,27
+Ear Infections,ear canal ablation,0.05210605023182529,28
+Ear Infections,right ear,0.05210605023182529,29
+Ear Infections,nerve,0.05210605023182529,30
+Ear Infections,ablation,0.05210605023182529,31
+Ear Infections,ear infection,0.05210605023182529,32
+Ear Infections,ear flush,0.05210605023182529,33
+Ear Infections,video,0.05210605023182529,34
+Ear Infections,sedation,0.05210605023182529,35
+Ear Infections,bulla,0.05210605023182529,36
+Ear Infections,myringotomy,0.05210605023182529,37
+Ear Infections,canal ablation,0.05210605023182529,38
+Ear Infections,ceruminous,0.05210605023182529,39
+Ear Infections,facial nerve,0.05210605023182529,40
+Mobility Problems,lameness,0.07606884703512662,1
+Mobility Problems,spinal,0.07416955509083809,2
+Mobility Problems,hind,0.07416955509083809,3
+Mobility Problems,bone,0.0672183192057406,4
+Mobility Problems,ccl,0.0672183192057406,5
+Mobility Problems,stifle,0.0672183192057406,6
+Mobility Problems,joint,0.06530159512766974,7
+Mobility Problems,hind limb,0.06430358429295316,8
+Mobility Problems,rest,0.06093876977637096,9
+Mobility Problems,ivdd,0.06093876977637096,10
+Mobility Problems,medial,0.06093876977637096,11
+Mobility Problems,show,0.05983953003779356,12
+Mobility Problems,hip,0.05983953003779356,13
+Mobility Problems,radiographs show,0.05816104500237592,14
+Mobility Problems,pain,0.05796545276718719,15
+Mobility Problems,motion,0.05695903889439477,16
+Mobility Problems,range motion,0.05695903889439477,17
+Mobility Problems,grade,0.05695903889439477,18
+Mobility Problems,orthopedic,0.05695903889439477,19
+Mobility Problems,spinal cord,0.05695903889439477,20
+Mobility Problems,cord,0.05695903889439477,21
+Mobility Problems,reflex,0.05695903889439477,22
+Mobility Problems,range,0.05695903889439477,23
+Mobility Problems,femoral,0.05695903889439477,24
+Mobility Problems,dysplasia,0.05695903889439477,25
+Mobility Problems,rupture,0.05695903889439477,26
+Mobility Problems,limb,0.05630556587917398,27
+Mobility Problems,muscle,0.05423131669423716,28
+Mobility Problems,elbow,0.05423131669423716,29
+Mobility Problems,atrophy,0.05208824194698496,30
+Mobility Problems,compression,0.05208824194698496,31
+Mobility Problems,hind limbs,0.05208824194698496,32
+Mobility Problems,tibial,0.05208824194698496,33
+Mobility Problems,gait,0.05208824194698496,34
+Mobility Problems,deep pain,0.05208824194698496,35
+Mobility Problems,hip laxity,0.05208824194698496,36
+Mobility Problems,hip dysplasia,0.05208824194698496,37
+Mobility Problems,degenerative,0.05208824194698496,38
+Mobility Problems,tear,0.05208824194698496,39
+Mobility Problems,paresis,0.05208824194698496,40
+Parasites,heartworm,0.07840472550376391,1
+Parasites,selamectin,0.07562957746731289,2
+Parasites,flea,0.07139713420921717,3
+Parasites,parasite,0.06934141415528547,4
+Parasites,fecal,0.06934141415528547,5
+Parasites,tick,0.06523135209407958,6
+Parasites,coccidia,0.06122408075755089,7
+Parasites,tick removed,0.06122408075755089,8
+Parasites,moxidectin,0.06122408075755089,9
+Parasites,ivermectin,0.059774870168164275,10
+Parasites,hookworm,0.05802040746371268,11
+Parasites,flotation positive,0.05802040746371268,12
+Parasites,eggs,0.0553757081401019,13
+Parasites,prevention,0.0553757081401019,14
+Parasites,mites,0.05490044632666801,15
+Parasites,dipylidium,0.05423126619591976,16
+Parasites,fecal flotation positive,0.05423126619591976,17
+Parasites,monthly,0.05423126619591976,18
+Parasites,praziquantel,0.05423126619591976,19
+Parasites,taenia,0.05423126619591976,20
+Parasites,mite,0.05423126619591976,21
+Parasites,flea tick,0.05423126619591976,22
+Parasites,flotation,0.053609088053026686,23
+Parasites,handout,0.05163417481908783,24
+Parasites,giardia,0.05163417481908783,25
+Parasites,removed,0.05163417481908783,26
+Parasites,parasites,0.05163417481908783,27
+Parasites,infestation,0.05065000945874187,28
+Parasites,tick-borne,0.049593732084239915,29
+Parasites,tick control,0.049593732084239915,30
+Parasites,hookworms,0.049593732084239915,31
+Parasites,provide handout,0.049593732084239915,32
+Parasites,client handout,0.049593732084239915,33
+Parasites,intestinal parasites,0.049593732084239915,34
+Parasites,fur,0.049593732084239915,35
+Parasites,fipronil,0.049593732084239915,36
+Parasites,flea tick control,0.049593732084239915,37
+Parasites,felis,0.049593732084239915,38
+Parasites,lungworm,0.049593732084239915,39
+Parasites,treat ivermectin,0.049593732084239915,40
+Skin Irritations,alopecia,0.08282815733603344,1
+Skin Irritations,dermatitis,0.07132002633748996,2
+Skin Irritations,erythema,0.060753130010309686,3
+Skin Irritations,pruritus,0.060753130010309686,4
+Skin Irritations,atopic,0.056384791184357456,5
+Skin Irritations,medicated,0.056384791184357456,6
+Skin Irritations,scaling,0.05573790633125888,7
+Skin Irritations,pyoderma,0.05368456924153324,8
+Skin Irritations,atopic dermatitis,0.05156310047271635,9
+Skin Irritations,dermatophytosis,0.05156310047271635,10
+Skin Irritations,chest,0.05156310047271635,11
+Skin Irritations,hyperadrenocorticism,0.05156310047271635,12
+Skin Irritations,vasculitis,0.05156310047271635,13
+Skin Irritations,allergy testing,0.05156310047271635,14
+Skin Irritations,fungal culture,0.05156310047271635,15
+Skin Irritations,seborrhea,0.05156310047271635,16
+Skin Irritations,self-trauma,0.05156310047271635,17
+Skin Irritations,crusting,0.048669345562482445,18
+Skin Irritations,flea,0.048669345562482445,19
+Skin Irritations,allergic,0.048669345562482445,20
+Skin Irritations,skin,0.04801795349990953,21
+Skin Irritations,topical,0.04626749726605471,22
+Skin Irritations,yeast,0.045490894500024574,23
+Skin Irritations,shampoo,0.045490894500024574,24
+Skin Irritations,pattern,0.045490894500024574,25
+Skin Irritations,hair,0.045490894500024574,26
+Skin Irritations,pemphigus,0.045490894500024574,27
+Skin Irritations,pododermatitis,0.045490894500024574,28
+Skin Irritations,flanks,0.0453468599921962,29
+Skin Irritations,comedones,0.0453468599921962,30
+Skin Irritations,licking,0.0453468599921962,31
+Skin Irritations,fna,0.0453468599921962,32
+Skin Irritations,started,0.0453468599921962,33
+Skin Irritations,zinc-responsive,0.0453468599921962,34
+Skin Irritations,hypersensitivity,0.0453468599921962,35
+Skin Irritations,dermatitis pattern,0.0453468599921962,36
+Skin Irritations,cellulitis,0.0453468599921962,37
+Skin Irritations,pruritus erythema,0.0453468599921962,38
+Skin Irritations,evaluate diet,0.0453468599921962,39
+Skin Irritations,pustules,0.0453468599921962,40

@@ -1,0 +1,201 @@
+﻿condition,keyword,score,rank
+Digestive Issues,vomiting,0.09162146298116973,1
+Digestive Issues,diarrhea,0.09137722860520686,2
+Digestive Issues,vomited,0.08015936099062276,3
+Digestive Issues,ate,0.07764811242954194,4
+Digestive Issues,food,0.07391961943756545,5
+Digestive Issues,vomits,0.07154466535840122,6
+Digestive Issues,undigested,0.07154466535840122,7
+Digestive Issues,foam,0.06780094669591999,8
+Digestive Issues,drinking,0.06780094669591999,9
+Digestive Issues,producing,0.06780094669591999,10
+Digestive Issues,soft,0.06657792405869205,11
+Digestive Issues,stool,0.06471042862296407,12
+Digestive Issues,stools,0.06471042862296407,13
+Digestive Issues,drooling,0.06337306732810248,14
+Digestive Issues,pellets,0.06337306732810248,15
+Digestive Issues,now vomiting,0.06337306732810248,16
+Digestive Issues,diarrhea after,0.06337306732810248,17
+Digestive Issues,droppings,0.060338182505634746,18
+Digestive Issues,after eating,0.060338182505634746,19
+Digestive Issues,abdomen,0.05795378096229805,20
+Digestive Issues,hairball,0.05795378096229805,21
+Digestive Issues,intermittent,0.05795378096229805,22
+Digestive Issues,passing,0.05795378096229805,23
+Digestive Issues,hasn,0.05795378096229805,24
+Digestive Issues,swallowing,0.05795378096229805,25
+Digestive Issues,breath,0.05795378096229805,26
+Digestive Issues,undigested food,0.05795378096229805,27
+Digestive Issues,straining,0.05795378096229805,28
+Digestive Issues,stomach,0.05795378096229805,29
+Digestive Issues,days,0.05772178552931324,30
+Digestive Issues,only,0.05772178552931324,31
+Digestive Issues,uncomfortable,0.05772178552931324,32
+Digestive Issues,appetite,0.0547013768847929,33
+Digestive Issues,hamster,0.0520018458480684,34
+Digestive Issues,eating,0.05161793406650911,35
+Digestive Issues,stopped,0.05112899169103337,36
+Digestive Issues,blood,0.05112899169103337,37
+Digestive Issues,nauseous,0.05096710568648416,38
+Digestive Issues,nothing,0.05096710568648416,39
+Digestive Issues,pawing,0.05096710568648416,40
+Ear Infections,ear,0.087939868113966,1
+Ear Infections,ear infection,0.0814948229242788,2
+Ear Infections,canal,0.0794600548593727,3
+Ear Infections,ear canal,0.0794600548593727,4
+Ear Infections,ears,0.07898054227958376,5
+Ear Infections,wax,0.0688903463060347,6
+Ear Infections,allergies,0.06528552023215871,7
+Ear Infections,smell,0.06230966089667309,8
+Ear Infections,ears ear,0.06102191592955678,9
+Ear Infections,waxy,0.06102191592955678,10
+Ear Infections,both ears,0.06102191592955678,11
+Ear Infections,side,0.06032183081275961,12
+Ear Infections,mites,0.06032183081275961,13
+Ear Infections,infection,0.05699222673239268,14
+Ear Infections,drops,0.05580368599442997,15
+Ear Infections,ears red,0.05580368599442997,16
+Ear Infections,ear problems,0.05580368599442997,17
+Ear Infections,head after,0.05580368599442997,18
+Ear Infections,ear ear,0.05580368599442997,19
+Ear Infections,droopy,0.05580368599442997,20
+Ear Infections,ears ferret,0.05580368599442997,21
+Ear Infections,cleaning,0.05580368599442997,22
+Ear Infections,below,0.05580368599442997,23
+Ear Infections,head,0.05558261952330653,24
+Ear Infections,ear infections,0.05558029763081572,25
+Ear Infections,shakes head,0.05558029763081572,26
+Ear Infections,shakes,0.05558029763081572,27
+Ear Infections,discharge,0.05007256866854286,28
+Ear Infections,water,0.049232097546739725,29
+Ear Infections,started,0.049232097546739725,30
+Ear Infections,yeasty,0.049232097546739725,31
+Ear Infections,ear flap,0.049232097546739725,32
+Ear Infections,flap,0.049232097546739725,33
+Ear Infections,affected,0.04907621754003862,34
+Ear Infections,buildup,0.04907621754003862,35
+Ear Infections,shakes head after,0.04907621754003862,36
+Ear Infections,ears ear infection,0.04907621754003862,37
+Ear Infections,left ear,0.04907621754003862,38
+Ear Infections,ear drops,0.04907621754003862,39
+Ear Infections,ears scratching,0.04907621754003862,40
+Mobility Problems,back legs,0.09070143244709422,1
+Mobility Problems,leg,0.08255238942536886,2
+Mobility Problems,pain,0.07677503473560048,3
+Mobility Problems,arthritis,0.07452159721749899,4
+Mobility Problems,joints,0.07452159721749899,5
+Mobility Problems,legs,0.07313512359476555,6
+Mobility Problems,limping,0.06965481203445335,7
+Mobility Problems,gait,0.06965481203445335,8
+Mobility Problems,limp,0.06965481203445335,9
+Mobility Problems,hind,0.06628841251221629,10
+Mobility Problems,weakness,0.06369834836485294,11
+Mobility Problems,leg after,0.06369834836485294,12
+Mobility Problems,dysplasia,0.06369834836485294,13
+Mobility Problems,elbow,0.06369834836485294,14
+Mobility Problems,hips,0.06369834836485294,15
+Mobility Problems,muscle,0.06369834836485294,16
+Mobility Problems,dragging,0.06369834836485294,17
+Mobility Problems,stiff,0.06369834836485294,18
+Mobility Problems,joint,0.06369834836485294,19
+Mobility Problems,hind legs,0.06344335678942949,20
+Mobility Problems,started,0.05619706376703625,21
+Mobility Problems,box,0.05619706376703625,22
+Mobility Problems,litter box,0.05619706376703625,23
+Mobility Problems,ivdd,0.056019131094793895,24
+Mobility Problems,when walks,0.056019131094793895,25
+Mobility Problems,resting,0.056019131094793895,26
+Mobility Problems,hip,0.056019131094793895,27
+Mobility Problems,posture,0.056019131094793895,28
+Mobility Problems,due pain,0.056019131094793895,29
+Mobility Problems,use,0.056019131094793895,30
+Mobility Problems,urine,0.056019131094793895,31
+Mobility Problems,unable,0.056019131094793895,32
+Mobility Problems,lying down,0.056019131094793895,33
+Mobility Problems,lying,0.056019131094793895,34
+Mobility Problems,climbing,0.056019131094793895,35
+Mobility Problems,struggles,0.056019131094793895,36
+Mobility Problems,knees,0.056019131094793895,37
+Mobility Problems,injury,0.056019131094793895,38
+Mobility Problems,wobbly,0.056019131094793895,39
+Mobility Problems,steps,0.056019131094793895,40
+Parasites,fleas,0.09003386096142793,1
+Parasites,mites,0.0783669241182556,2
+Parasites,bird,0.06919303491838615,3
+Parasites,flea,0.06603839848964244,4
+Parasites,worms,0.06557237005343743,5
+Parasites,tick,0.06557237005343743,6
+Parasites,itchy,0.06438954744018227,7
+Parasites,diarrhea,0.06258343546458017,8
+Parasites,mange,0.061290032437110564,9
+Parasites,parasites,0.061290032437110564,10
+Parasites,ear,0.06119583201642716,11
+Parasites,ear mites,0.06058687130453043,12
+Parasites,vet,0.05607691387937248,13
+Parasites,demodex,0.05604887477897627,14
+Parasites,scabies,0.05604887477897627,15
+Parasites,crawling,0.05604887477897627,16
+Parasites,positive,0.05604887477897627,17
+Parasites,ticks,0.05604887477897627,18
+Parasites,dermatitis,0.05604887477897627,19
+Parasites,roundworms,0.05604887477897627,20
+Parasites,giardia,0.05604887477897627,21
+Parasites,heartworm,0.05604887477897627,22
+Parasites,coccidia,0.05604887477897627,23
+Parasites,tapeworms,0.05604887477897627,24
+Parasites,rabbit fur,0.05604887477897627,25
+Parasites,ears,0.053449140921182615,26
+Parasites,mites causing,0.05290337528189756,27
+Parasites,stool,0.05290337528189756,28
+Parasites,resistant,0.04944841225683531,29
+Parasites,flea allergy,0.04929184734861387,30
+Parasites,generalized,0.04929184734861387,31
+Parasites,itchy especially,0.04929184734861387,32
+Parasites,worried about,0.04929184734861387,33
+Parasites,rice,0.04929184734861387,34
+Parasites,very itchy,0.04929184734861387,35
+Parasites,dewormer,0.04929184734861387,36
+Parasites,pale gums,0.04929184734861387,37
+Parasites,still,0.04929184734861387,38
+Parasites,tested,0.04929184734861387,39
+Parasites,lice,0.04929184734861387,40
+Skin Irritations,chin,0.07552128235020954,1
+Skin Irritations,skin,0.06867247252198004,2
+Skin Irritations,redness,0.06723104798047531,3
+Skin Irritations,rash,0.06399475187074874,4
+Skin Irritations,bumps,0.06326056034864776,5
+Skin Irritations,itchy,0.06326056034864776,6
+Skin Irritations,hair loss,0.06295761096753556,7
+Skin Irritations,loss,0.06295761096753556,8
+Skin Irritations,tail,0.05976874624046918,9
+Skin Irritations,lesions,0.058522302754459916,10
+Skin Irritations,collar,0.058522302754459916,11
+Skin Irritations,between,0.058522302754459916,12
+Skin Irritations,crusty lesions,0.058522302754459916,13
+Skin Irritations,folds,0.058522302754459916,14
+Skin Irritations,flaky skin,0.05828803146548876,15
+Skin Irritations,patches,0.05828803146548876,16
+Skin Irritations,hair,0.056524245527406404,17
+Skin Irritations,nose,0.05580784305287304,18
+Skin Irritations,hamster,0.05580784305287304,19
+Skin Irritations,crusty,0.05580784305287304,20
+Skin Irritations,appearing,0.05523799286228186,21
+Skin Irritations,itching,0.05523799286228186,22
+Skin Irritations,ears,0.05424244590881088,23
+Skin Irritations,eyes,0.05424244590881088,24
+Skin Irritations,belly,0.052511979649631786,25
+Skin Irritations,neck,0.051630562865596176,26
+Skin Irritations,thickened,0.051630562865596176,27
+Skin Irritations,dandruff,0.051630562865596176,28
+Skin Irritations,matted fur,0.05146708877274791,29
+Skin Irritations,redness irritation,0.05146708877274791,30
+Skin Irritations,lump,0.05146708877274791,31
+Skin Irritations,developed large,0.05146708877274791,32
+Skin Irritations,groin,0.05146708877274791,33
+Skin Irritations,skin folds,0.05146708877274791,34
+Skin Irritations,between toes,0.05146708877274791,35
+Skin Irritations,developed lump,0.05146708877274791,36
+Skin Irritations,nose developed,0.05146708877274791,37
+Skin Irritations,pads,0.05146708877274791,38
+Skin Irritations,toes,0.05146708877274791,39
+Skin Irritations,paw pads,0.05146708877274791,40

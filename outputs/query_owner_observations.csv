@@ -1,0 +1,1001 @@
+text,condition,record_type,clean_text
+My ferret scratches at his ears until they bleed.,Ear Infections,Owner Observation,My ferret scratches at his ears until they bleed.
+Cat seems painful when she opens her mouth wide to yawn.,Ear Infections,Owner Observation,Cat seems painful when she opens her mouth wide to yawn.
+"My dog has developed sudden, severe abdominal distension.",Digestive Issues,Owner Observation,"My dog has developed sudden, severe abdominal distension."
+Guinea pig is scratching itself raw.,Parasites,Owner Observation,Guinea pig is scratching itself raw.
+Rabbit has a broken leg after an accident.,Mobility Problems,Owner Observation,Rabbit has a broken leg after an accident.
+Cat has scaly patches on her ear tips.,Skin Irritations,Owner Observation,Cat has scaly patches on her ear tips.
+My dog has hip dysplasia.,Mobility Problems,Owner Observation,My dog has hip dysplasia.
+Puppy has redness and irritation in his skin folds.,Skin Irritations,Owner Observation,Puppy has redness and irritation in his skin folds.
+Dog's ear hematoma was drained but filled right back up.,Ear Infections,Owner Observation,Dog's ear hematoma was drained but filled right back up.
+"My cat vomited, then had diarrhea, now just hiding.",Digestive Issues,Owner Observation,"My cat vomited, then had diarrhea, now just hiding."
+Cat vomits immediately after drinking water.,Digestive Issues,Owner Observation,Cat vomits immediately after drinking water.
+Dog has developed bald patches on his face and legs.,Parasites,Owner Observation,Dog has developed bald patches on his face and legs.
+"My dog has crusty ear edges and is losing hair there, very itchy.",Parasites,Owner Observation,"My dog has crusty ear edges and is losing hair there, very itchy."
+"The dog's armpits are dark, thickened, and itchy.",Skin Irritations,Owner Observation,"The dog's armpits are dark, thickened, and itchy."
+"Found a long, flat, white worm in my dog's fresh stool.",Parasites,Owner Observation,"Found a long, flat, white worm in my dog's fresh stool."
+My cat has inflamed nail beds.,Skin Irritations,Owner Observation,My cat has inflamed nail beds.
+My puppy seems to get an upset stomach from car rides.,Digestive Issues,Owner Observation,My puppy seems to get an upset stomach from car rides.
+My dog has thickened skin folds around his muzzle that smell bad.,Skin Irritations,Owner Observation,My dog has thickened skin folds around his muzzle that smell bad.
+My rabbit's dewlap is constantly wet and the skin underneath is red.,Skin Irritations,Owner Observation,My rabbit's dewlap is constantly wet and the skin underneath is red.
+Puppy has diarrhea after switching foods too quickly.,Digestive Issues,Owner Observation,Puppy has diarrhea after switching foods too quickly.
+My dog has a skin infection secondary to flea bites.,Parasites,Owner Observation,My dog has a skin infection secondary to flea bites.
+My cockatiel is listless and has abnormal droppings.,Parasites,Owner Observation,My cockatiel is listless and has abnormal droppings.
+My cat's hearing seems diminished.,Ear Infections,Owner Observation,My cat's hearing seems diminished.
+"Ferret has pale gums, possibly flea-induced anemia.",Parasites,Owner Observation,"Ferret has pale gums, possibly flea-induced anemia."
+Cat vomited 5 times in the past few hours.,Digestive Issues,Owner Observation,Cat vomited 5 times in the past few hours.
+The ear canal seems narrowed and swollen shut.,Ear Infections,Owner Observation,The ear canal seems narrowed and swollen shut.
+My cat vomited what looked like a roundworm.,Digestive Issues,Owner Observation,My cat vomited what looked like a roundworm.
+Cat has nerve damage affecting her leg.,Mobility Problems,Owner Observation,Cat has nerve damage affecting her leg.
+"Ferret has dark, waxy debris in ears.",Ear Infections,Owner Observation,"Ferret has dark, waxy debris in ears."
+Ferret is tilting its head.,Ear Infections,Owner Observation,Ferret is tilting its head.
+"My dog's skin has a generally unpleasant, strong odor.",Skin Irritations,Owner Observation,"My dog's skin has a generally unpleasant, strong odor."
+My dog has water trapped in his ear after a bath.,Ear Infections,Owner Observation,My dog has water trapped in his ear after a bath.
+"Kitten failed to respond to initial dewormer, suspecting resistant strain or different parasite.",Parasites,Owner Observation,"Kitten failed to respond to initial dewormer, suspecting resistant strain or different parasite."
+My dog has persistent itching despite flea treatment.,Skin Irritations,Owner Observation,My dog has persistent itching despite flea treatment.
+Rabbit is scratching vigorously at the base of its ears.,Ear Infections,Owner Observation,Rabbit is scratching vigorously at the base of its ears.
+Cat has lost hair around the outside of her ears from scratching.,Ear Infections,Owner Observation,Cat has lost hair around the outside of her ears from scratching.
+Guinea pig has sores on the bottom of its feet (bumblefoot).,Skin Irritations,Owner Observation,Guinea pig has sores on the bottom of its feet (bumblefoot).
+My guinea pig has developed scaly patches around its eyes.,Skin Irritations,Owner Observation,My guinea pig has developed scaly patches around its eyes.
+"My dog ate greasy leftovers, now has painful belly and vomiting.",Digestive Issues,Owner Observation,"My dog ate greasy leftovers, now has painful belly and vomiting."
+"Dog's ears look greasy, and the fur below them is stained and sticky.",Ear Infections,Owner Observation,"Dog's ears look greasy, and the fur below them is stained and sticky."
+Hamster has hair loss and redness on its underside.,Skin Irritations,Owner Observation,Hamster has hair loss and redness on its underside.
+Ferret's ears seem painful to touch.,Ear Infections,Owner Observation,Ferret's ears seem painful to touch.
+My dog's ear infection requires long-term management.,Ear Infections,Owner Observation,My dog's ear infection requires long-term management.
+Cat has stopped perching in high places.,Mobility Problems,Owner Observation,Cat has stopped perching in high places.
+Rabbit has hair loss and scaling around the eyes.,Skin Irritations,Owner Observation,Rabbit has hair loss and scaling around the eyes.
+"Cat's claws are very long, maybe it hurts to use the scratching post.",Mobility Problems,Owner Observation,"Cat's claws are very long, maybe it hurts to use the scratching post."
+My dog is eating grass obsessively and then vomiting foam.,Digestive Issues,Owner Observation,My dog is eating grass obsessively and then vomiting foam.
+My guinea pig has bald spots appearing behind its ears.,Skin Irritations,Owner Observation,My guinea pig has bald spots appearing behind its ears.
+Cat cries out in pain when yawning or eating.,Ear Infections,Owner Observation,Cat cries out in pain when yawning or eating.
+My dog's abdomen became suddenly taut and enlarged.,Digestive Issues,Owner Observation,My dog's abdomen became suddenly taut and enlarged.
+Cat struggles to climb onto the sofa.,Mobility Problems,Owner Observation,Cat struggles to climb onto the sofa.
+My hamster has diarrhea and isn't acting like himself.,Digestive Issues,Owner Observation,My hamster has diarrhea and isn't acting like himself.
+Cat has crusty sores on the edges of her ear flaps.,Ear Infections,Owner Observation,Cat has crusty sores on the edges of her ear flaps.
+My dog yelps when jumping off the couch.,Mobility Problems,Owner Observation,My dog yelps when jumping off the couch.
+Cat keeps rubbing her head/ears against the furniture.,Ear Infections,Owner Observation,Cat keeps rubbing her head/ears against the furniture.
+Cat is losing weight but eating more than usual.,Digestive Issues,Owner Observation,Cat is losing weight but eating more than usual.
+"Dog has bumps and scabs, vet suspected flea allergy dermatitis.",Parasites,Owner Observation,"Dog has bumps and scabs, vet suspected flea allergy dermatitis."
+My cat's ear mites seem resistant to the usual treatments.,Parasites,Owner Observation,My cat's ear mites seem resistant to the usual treatments.
+"Dog has flea allergy, gets severe reaction from one bite.",Parasites,Owner Observation,"Dog has flea allergy, gets severe reaction from one bite."
+My cat is drooling excessively and pawing at her mouth.,Digestive Issues,Owner Observation,My cat is drooling excessively and pawing at her mouth.
+My older dog seems painful and slow when getting up after naps.,Mobility Problems,Owner Observation,My older dog seems painful and slow when getting up after naps.
+"My kitten has a potbelly and isn't growing well, the breeder said she might have worms.",Parasites,Owner Observation,"My kitten has a potbelly and isn't growing well, the breeder said she might have worms."
+"My cat brought in a mouse, now I'm worried about worms.",Parasites,Owner Observation,"My cat brought in a mouse, now I'm worried about worms."
+My dog has muscle atrophy.,Mobility Problems,Owner Observation,My dog has muscle atrophy.
+Guinea pig's back legs seem paralyzed.,Mobility Problems,Owner Observation,Guinea pig's back legs seem paralyzed.
+"Cat has greasy, matted fur along its back.",Skin Irritations,Owner Observation,"Cat has greasy, matted fur along its back."
+"My ferret is scratching and has hair loss, especially around the shoulders.",Parasites,Owner Observation,"My ferret is scratching and has hair loss, especially around the shoulders."
+My dog's front leg seems to bow outwards at the wrist.,Mobility Problems,Owner Observation,My dog's front leg seems to bow outwards at the wrist.
+Dog has redness and swelling spreading onto the outside of the ear flap.,Ear Infections,Owner Observation,Dog has redness and swelling spreading onto the outside of the ear flap.
+My parrot is picking at himself constantly and seems agitated.,Parasites,Owner Observation,My parrot is picking at himself constantly and seems agitated.
+Hamster is dehydrated (skin stays tented when pinched).,Digestive Issues,Owner Observation,Hamster is dehydrated (skin stays tented when pinched).
+My dog's breed (Cocker Spaniel) is prone to ear infections.,Ear Infections,Owner Observation,My dog's breed (Cocker Spaniel) is prone to ear infections.
+Dog has had pudding-like stool for three days straight.,Digestive Issues,Owner Observation,Dog has had pudding-like stool for three days straight.
+Dog likely has 'swimmer's ear' after dock diving.,Ear Infections,Owner Observation,Dog likely has 'swimmer's ear' after dock diving.
+Rabbit has stopped hopping normally.,Mobility Problems,Owner Observation,Rabbit has stopped hopping normally.
+"Dog keeps stretching into a 'play bow' position, seems painful.",Digestive Issues,Owner Observation,"Dog keeps stretching into a 'play bow' position, seems painful."
+Guinea pig's feet are red and swollen.,Skin Irritations,Owner Observation,Guinea pig's feet are red and swollen.
+My cat's ear infection isn't responding to the current antibiotic drops.,Ear Infections,Owner Observation,My cat's ear infection isn't responding to the current antibiotic drops.
+My kitten has developed scabs behind her ears.,Skin Irritations,Owner Observation,My kitten has developed scabs behind her ears.
+My dog's limp seems to disappear during intense play but returns afterward.,Mobility Problems,Owner Observation,My dog's limp seems to disappear during intense play but returns afterward.
+My puppy came from a litter where several pups had ear mites.,Ear Infections,Owner Observation,My puppy came from a litter where several pups had ear mites.
+"My cat has small, millet-seed like scabs all over its body.",Skin Irritations,Owner Observation,"My cat has small, millet-seed like scabs all over its body."
+My rabbit has sores on its hocks from sitting abnormally.,Mobility Problems,Owner Observation,My rabbit has sores on its hocks from sitting abnormally.
+My dog tested positive for Ehrlichiosis on his annual screen.,Parasites,Owner Observation,My dog tested positive for Ehrlichiosis on his annual screen.
+"Dog has whipworms according to the vet, needs specific dewormer.",Parasites,Owner Observation,"Dog has whipworms according to the vet, needs specific dewormer."
+Guinea pig has soft droppings sticking to its rear end.,Digestive Issues,Owner Observation,Guinea pig has soft droppings sticking to its rear end.
+My dog sometimes skips for a step or two on his back leg while trotting.,Mobility Problems,Owner Observation,My dog sometimes skips for a step or two on his back leg while trotting.
+Dog’s ears are tender and smell like yeast.,Ear Infections,Owner Observation,Dog’s ears are tender and smell like yeast.
+My dog has a rash on his belly that looks like insect bites.,Skin Irritations,Owner Observation,My dog has a rash on his belly that looks like insect bites.
+My rabbit is pressing its abdomen on the floor.,Digestive Issues,Owner Observation,My rabbit is pressing its abdomen on the floor.
+My dog slipped on the floor and has been limping since.,Mobility Problems,Owner Observation,My dog slipped on the floor and has been limping since.
+Rabbit seems generally weak and floppy.,Mobility Problems,Owner Observation,Rabbit seems generally weak and floppy.
+"Dog has a large, weeping sore on his neck that came up fast.",Skin Irritations,Owner Observation,"Dog has a large, weeping sore on his neck that came up fast."
+Rabbit has dandruff concentrated over its shoulders.,Skin Irritations,Owner Observation,Rabbit has dandruff concentrated over its shoulders.
+"My dog's stomach is rumbling loudly, and he keeps licking the air.",Digestive Issues,Owner Observation,"My dog's stomach is rumbling loudly, and he keeps licking the air."
+Dog has diarrhea that looks like raspberry jam.,Digestive Issues,Owner Observation,Dog has diarrhea that looks like raspberry jam.
+My rabbit's left ear is hanging down lower than the right.,Ear Infections,Owner Observation,My rabbit's left ear is hanging down lower than the right.
+"My dog is scratching constantly, and I found tiny brown bugs crawling on him.",Parasites,Owner Observation,"My dog is scratching constantly, and I found tiny brown bugs crawling on him."
+"Dog has flea allergy dermatitis, reacts severely to flea saliva.",Parasites,Owner Observation,"Dog has flea allergy dermatitis, reacts severely to flea saliva."
+"Dog has small, raised, hairless bumps appearing on his body.",Skin Irritations,Owner Observation,"Dog has small, raised, hairless bumps appearing on his body."
+My dog's ear infection came back shortly after finishing medication.,Ear Infections,Owner Observation,My dog's ear infection came back shortly after finishing medication.
+"My dog has scabies, and the whole family is itchy now.",Parasites,Owner Observation,"My dog has scabies, and the whole family is itchy now."
+Cat has hair loss above the eyes.,Skin Irritations,Owner Observation,Cat has hair loss above the eyes.
+Cat is grooming one specific spot on her leg until it's bald.,Mobility Problems,Owner Observation,Cat is grooming one specific spot on her leg until it's bald.
+My dog doesn't lift his legs as high when walking anymore.,Mobility Problems,Owner Observation,My dog doesn't lift his legs as high when walking anymore.
+"My rabbit has flaky skin and seems very itchy, especially on its back.",Parasites,Owner Observation,"My rabbit has flaky skin and seems very itchy, especially on its back."
+Guinea pig's abdomen feels tight and bloated.,Digestive Issues,Owner Observation,Guinea pig's abdomen feels tight and bloated.
+Dog has redness and bumps in the groin area.,Skin Irritations,Owner Observation,Dog has redness and bumps in the groin area.
+"Dog is biting at his hind end, near the tail.",Skin Irritations,Owner Observation,"Dog is biting at his hind end, near the tail."
+"Rabbit is over-grooming its belly, leaving the skin bare.",Skin Irritations,Owner Observation,"Rabbit is over-grooming its belly, leaving the skin bare."
+My rabbit has an abscess near the ear.,Ear Infections,Owner Observation,My rabbit has an abscess near the ear.
+My guinea pig is losing hair and has crusty sores.,Parasites,Owner Observation,My guinea pig is losing hair and has crusty sores.
+Kitten has lost fur on its paws.,Skin Irritations,Owner Observation,Kitten has lost fur on its paws.
+My ferret's skin seems yellowish.,Skin Irritations,Owner Observation,My ferret's skin seems yellowish.
+My cat gags frequently without bringing anything up.,Digestive Issues,Owner Observation,My cat gags frequently without bringing anything up.
+My dog consistently puts less weight on his left hind leg.,Mobility Problems,Owner Observation,My dog consistently puts less weight on his left hind leg.
+"Ferret walks very stiffly, especially in the hind end.",Mobility Problems,Owner Observation,"Ferret walks very stiffly, especially in the hind end."
+Ferret is having trouble climbing.,Mobility Problems,Owner Observation,Ferret is having trouble climbing.
+Guinea pig has tiny white lice visible in its fur.,Parasites,Owner Observation,Guinea pig has tiny white lice visible in its fur.
+My rabbit has developed sores on its heels.,Mobility Problems,Owner Observation,My rabbit has developed sores on its heels.
+"My cat has dark wax, but the vet said it wasn't mites.",Ear Infections,Owner Observation,"My cat has dark wax, but the vet said it wasn't mites."
+"Cat is scratching her face, causing small cuts near her eyes.",Skin Irritations,Owner Observation,"Cat is scratching her face, causing small cuts near her eyes."
+My dog vomited bile this morning and isn't interested in breakfast.,Digestive Issues,Owner Observation,My dog vomited bile this morning and isn't interested in breakfast.
+Dog has diarrhea that smells particularly foul.,Digestive Issues,Owner Observation,Dog has diarrhea that smells particularly foul.
+My kitten has ringworm-like circles appearing on her face.,Skin Irritations,Owner Observation,My kitten has ringworm-like circles appearing on her face.
+My dog shakes his head after waking up.,Ear Infections,Owner Observation,My dog shakes his head after waking up.
+Dog’s gait is wobbly and he falls often.,Mobility Problems,Owner Observation,Dog’s gait is wobbly and he falls often.
+"Cat cries and flinches if I try to look in her ears, they look black inside.",Parasites,Owner Observation,"Cat cries and flinches if I try to look in her ears, they look black inside."
+Dog is constantly shaking his head and scratching his ears raw.,Skin Irritations,Owner Observation,Dog is constantly shaking his head and scratching his ears raw.
+"My dog has bare patches of skin and intense itching, worse at night.",Parasites,Owner Observation,"My dog has bare patches of skin and intense itching, worse at night."
+My dog's ear infection seems worse in humid weather.,Ear Infections,Owner Observation,My dog's ear infection seems worse in humid weather.
+"Rabbit has neurological issues (head tilt, weakness) from E. cuniculi.",Mobility Problems,Owner Observation,"Rabbit has neurological issues (head tilt, weakness) from E. cuniculi."
+"My cat is regurgitating food (undigested, tube-shaped) right after eating.",Digestive Issues,Owner Observation,"My cat is regurgitating food (undigested, tube-shaped) right after eating."
+My canary has crusty scales on its legs and feet.,Parasites,Owner Observation,My canary has crusty scales on its legs and feet.
+Ferret hasn't eaten today and vomited greenish fluid.,Digestive Issues,Owner Observation,Ferret hasn't eaten today and vomited greenish fluid.
+My dog has developed a large fluid-filled swelling (cyst?) under the skin.,Skin Irritations,Owner Observation,My dog has developed a large fluid-filled swelling (cyst?) under the skin.
+My cat has Horner's syndrome related to an ear infection.,Ear Infections,Owner Observation,My cat has Horner's syndrome related to an ear infection.
+"Dog has large volume, greasy, foul-smelling stools.",Digestive Issues,Owner Observation,"Dog has large volume, greasy, foul-smelling stools."
+My rabbit's appetite has been poor for several days.,Digestive Issues,Owner Observation,My rabbit's appetite has been poor for several days.
+Dog's ears are greasy and the hair around them is matted.,Ear Infections,Owner Observation,Dog's ears are greasy and the hair around them is matted.
+Dog has diarrhea with visible pieces of undigested kibble.,Digestive Issues,Owner Observation,Dog has diarrhea with visible pieces of undigested kibble.
+My dog has food allergies that trigger ear infections.,Ear Infections,Owner Observation,My dog has food allergies that trigger ear infections.
+My dog has a torn ACL (CCL) and needs surgery.,Mobility Problems,Owner Observation,My dog has a torn ACL (CCL) and needs surgery.
+My dog tested positive for Anaplasmosis after a tick bite.,Parasites,Owner Observation,My dog tested positive for Anaplasmosis after a tick bite.
+"There's a moist, red, sore area on my dog's flank that appeared suddenly.",Skin Irritations,Owner Observation,"There's a moist, red, sore area on my dog's flank that appeared suddenly."
+Ferret yelps when his ears are examined.,Ear Infections,Owner Observation,Ferret yelps when his ears are examined.
+"Puppy has intermittent diarrhea, sometimes normal, sometimes loose.",Digestive Issues,Owner Observation,"Puppy has intermittent diarrhea, sometimes normal, sometimes loose."
+Guinea pig seems unable to move properly after being dropped.,Mobility Problems,Owner Observation,Guinea pig seems unable to move properly after being dropped.
+"Rabbit isn't eating pellets, only picking at greens.",Digestive Issues,Owner Observation,"Rabbit isn't eating pellets, only picking at greens."
+My dog has a rash after swimming in the lake.,Skin Irritations,Owner Observation,My dog has a rash after swimming in the lake.
+Cat has created raw spots and scabs around her ears from scratching.,Ear Infections,Owner Observation,Cat has created raw spots and scabs around her ears from scratching.
+My cat seems to have inflammation deep within the ear.,Ear Infections,Owner Observation,My cat seems to have inflammation deep within the ear.
+"Cat is constantly scratching around the neck, causing hair loss.",Skin Irritations,Owner Observation,"Cat is constantly scratching around the neck, causing hair loss."
+My rabbit has crusty buildup inside its ears.,Ear Infections,Owner Observation,My rabbit has crusty buildup inside its ears.
+Puppy's ears seem hot to the touch.,Ear Infections,Owner Observation,Puppy's ears seem hot to the touch.
+"Guinea pig has mange mites, causing severe itching and seizures.",Parasites,Owner Observation,"Guinea pig has mange mites, causing severe itching and seizures."
+"Dog has intense itching episodes, especially at night.",Skin Irritations,Owner Observation,"Dog has intense itching episodes, especially at night."
+"Dog keeps shaking his head, and the inside of his ear flaps are red.",Skin Irritations,Owner Observation,"Dog keeps shaking his head, and the inside of his ear flaps are red."
+My rabbit is biting at its flank.,Skin Irritations,Owner Observation,My rabbit is biting at its flank.
+My rabbit has sores developing on the soles of its feet.,Parasites,Owner Observation,My rabbit has sores developing on the soles of its feet.
+Rabbit has lost balance.,Ear Infections,Owner Observation,Rabbit has lost balance.
+My dog's elbow/hock seems to stick out at an odd angle.,Mobility Problems,Owner Observation,My dog's elbow/hock seems to stick out at an odd angle.
+Cat has developed facial nerve paralysis (droopy face) on one side.,Ear Infections,Owner Observation,Cat has developed facial nerve paralysis (droopy face) on one side.
+Cat vomits bile mostly in the early morning before breakfast.,Digestive Issues,Owner Observation,Cat vomits bile mostly in the early morning before breakfast.
+"Dog has sudden onset of watery, projectile diarrhea.",Digestive Issues,Owner Observation,"Dog has sudden onset of watery, projectile diarrhea."
+My cat has redness and swelling of the chin.,Skin Irritations,Owner Observation,My cat has redness and swelling of the chin.
+My guinea pig's droppings are very small and dry.,Digestive Issues,Owner Observation,My guinea pig's droppings are very small and dry.
+"Cat has a greasy feel to her coat, especially near the tail base.",Skin Irritations,Owner Observation,"Cat has a greasy feel to her coat, especially near the tail base."
+Rabbit has discharge coming from the ear.,Ear Infections,Owner Observation,Rabbit has discharge coming from the ear.
+"Dog’s ears have a rash with small, crusty bumps.",Skin Irritations,Owner Observation,"Dog’s ears have a rash with small, crusty bumps."
+My cat has bad breath and occasionally vomits foam.,Digestive Issues,Owner Observation,My cat has bad breath and occasionally vomits foam.
+Cat’s ears have a brown discharge and bad smell.,Ear Infections,Owner Observation,Cat’s ears have a brown discharge and bad smell.
+My ferret arches his back when I pick him up.,Mobility Problems,Owner Observation,My ferret arches his back when I pick him up.
+My puppy has 'growing pains' (panosteitis).,Mobility Problems,Owner Observation,My puppy has 'growing pains' (panosteitis).
+My ferret seems painful in his back.,Mobility Problems,Owner Observation,My ferret seems painful in his back.
+Ferret seems painful around the head.,Ear Infections,Owner Observation,Ferret seems painful around the head.
+My bird has crusty growths on its beak and feet.,Parasites,Owner Observation,My bird has crusty growths on its beak and feet.
+Cat has developed hives/welts after being outside.,Skin Irritations,Owner Observation,Cat has developed hives/welts after being outside.
+My cat has crusty lesions around her eyes and nose.,Skin Irritations,Owner Observation,My cat has crusty lesions around her eyes and nose.
+My dog is reluctant to go for walks.,Mobility Problems,Owner Observation,My dog is reluctant to go for walks.
+My dog sits with his leg sticking straight out to the side.,Mobility Problems,Owner Observation,My dog sits with his leg sticking straight out to the side.
+My dog is knuckling over on his paws.,Mobility Problems,Owner Observation,My dog is knuckling over on his paws.
+My dog has osteosarcoma requiring amputation.,Mobility Problems,Owner Observation,My dog has osteosarcoma requiring amputation.
+Dog has developed calluses on his elbows that are now cracking.,Skin Irritations,Owner Observation,Dog has developed calluses on his elbows that are now cracking.
+Cat vomited a large hairball this morning.,Digestive Issues,Owner Observation,Cat vomited a large hairball this morning.
+My rabbit has fur mites (Cheyletiella).,Parasites,Owner Observation,My rabbit has fur mites (Cheyletiella).
+My ferret's skin looks yellowish and he's losing fur.,Skin Irritations,Owner Observation,My ferret's skin looks yellowish and he's losing fur.
+"My puppy has dark specks in his ears, vet suspected mites.",Ear Infections,Owner Observation,"My puppy has dark specks in his ears, vet suspected mites."
+"Hamster is scratching incessantly, causing small wounds.",Skin Irritations,Owner Observation,"Hamster is scratching incessantly, causing small wounds."
+Dog has a ruptured eardrum from a chronic infection.,Ear Infections,Owner Observation,Dog has a ruptured eardrum from a chronic infection.
+My cat tries to vomit frequently but only retches.,Digestive Issues,Owner Observation,My cat tries to vomit frequently but only retches.
+"Cat has visibly swollen joints, especially her wrists (carpi).",Mobility Problems,Owner Observation,"Cat has visibly swollen joints, especially her wrists (carpi)."
+My cat is holding her head tilted to one side.,Ear Infections,Owner Observation,My cat is holding her head tilted to one side.
+Cat looks carefully before jumping down from even low heights.,Mobility Problems,Owner Observation,Cat looks carefully before jumping down from even low heights.
+My hamster’s stools are watery and frequent.,Digestive Issues,Owner Observation,My hamster’s stools are watery and frequent.
+My puppy eats constantly but is skinny and has soft poop.,Digestive Issues,Owner Observation,My puppy eats constantly but is skinny and has soft poop.
+Rabbit has ear mites causing thick crusts.,Ear Infections,Owner Observation,Rabbit has ear mites causing thick crusts.
+My dog's thigh muscles look smaller than they used to.,Mobility Problems,Owner Observation,My dog's thigh muscles look smaller than they used to.
+"Dog has diarrhea that smells metallic, like blood.",Digestive Issues,Owner Observation,"Dog has diarrhea that smells metallic, like blood."
+"My cat used to love chasing laser pointers, now she just watches.",Mobility Problems,Owner Observation,"My cat used to love chasing laser pointers, now she just watches."
+Dog is licking obsessively at a spot between his shoulder blades.,Skin Irritations,Owner Observation,Dog is licking obsessively at a spot between his shoulder blades.
+My dog whimpers when he tries to jump onto the bed.,Mobility Problems,Owner Observation,My dog whimpers when he tries to jump onto the bed.
+Dog's ear canal bleeds easily when cleaned.,Ear Infections,Owner Observation,Dog's ear canal bleeds easily when cleaned.
+Rabbit has flaky skin on the outside of its ear flaps.,Skin Irritations,Owner Observation,Rabbit has flaky skin on the outside of its ear flaps.
+Found a tick embedded in my cat's skin after she was outside.,Parasites,Owner Observation,Found a tick embedded in my cat's skin after she was outside.
+Cat has hair loss around the eyes and ears.,Parasites,Owner Observation,Cat has hair loss around the eyes and ears.
+"My dog has developed red, itchy patches on his belly and inner thighs.",Skin Irritations,Owner Observation,"My dog has developed red, itchy patches on his belly and inner thighs."
+My rabbit is scratching its dewlap constantly.,Skin Irritations,Owner Observation,My rabbit is scratching its dewlap constantly.
+"Rabbit is moving very little, seems painful.",Ear Infections,Owner Observation,"Rabbit is moving very little, seems painful."
+Cat's chin has blackheads and some pimple-like sores (chin acne).,Skin Irritations,Owner Observation,Cat's chin has blackheads and some pimple-like sores (chin acne).
+My dog developed a head tilt and seems dizzy.,Mobility Problems,Owner Observation,My dog developed a head tilt and seems dizzy.
+My cat vomited a plant leaf.,Digestive Issues,Owner Observation,My cat vomited a plant leaf.
+Cat got diarrhea after drinking milk.,Digestive Issues,Owner Observation,Cat got diarrhea after drinking milk.
+My ferret shakes his head after I clean his ears.,Ear Infections,Owner Observation,My ferret shakes his head after I clean his ears.
+My rabbit has maggots near its tail (flystrike).,Parasites,Owner Observation,My rabbit has maggots near its tail (flystrike).
+Hamster has wetness and irritation around its tail (wet tail).,Skin Irritations,Owner Observation,Hamster has wetness and irritation around its tail (wet tail).
+My dog's poop is covered in slimy mucus.,Digestive Issues,Owner Observation,My dog's poop is covered in slimy mucus.
+Puppy has roundworms and hookworms.,Parasites,Owner Observation,Puppy has roundworms and hookworms.
+"Guinea pig has very rough, coarse fur and seems itchy.",Skin Irritations,Owner Observation,"Guinea pig has very rough, coarse fur and seems itchy."
+My rabbit has swelling around the ear base.,Ear Infections,Owner Observation,My rabbit has swelling around the ear base.
+I found a live flea crawling on my arm after holding the cat.,Parasites,Owner Observation,I found a live flea crawling on my arm after holding the cat.
+Dog is anemic due to a heavy hookworm burden.,Parasites,Owner Observation,Dog is anemic due to a heavy hookworm burden.
+Rabbit has ear mites causing inflammation and head tilt.,Parasites,Owner Observation,Rabbit has ear mites causing inflammation and head tilt.
+"Cat has a swollen area on her face, like an abscess.",Skin Irritations,Owner Observation,"Cat has a swollen area on her face, like an abscess."
+My cat has fleas and tapeworms.,Parasites,Owner Observation,My cat has fleas and tapeworms.
+My cat has a droopy eyelid and unequal pupil size on the side with the bad ear.,Ear Infections,Owner Observation,My cat has a droopy eyelid and unequal pupil size on the side with the bad ear.
+"Guinea pig has white, powdery stuff in its fur.",Parasites,Owner Observation,"Guinea pig has white, powdery stuff in its fur."
+Rabbit is reluctant to be picked up.,Mobility Problems,Owner Observation,Rabbit is reluctant to be picked up.
+My dog has mucus covering his stool.,Digestive Issues,Owner Observation,My dog has mucus covering his stool.
+"Kitten has crusty discharge around its eyes and nose, along with skin sores.",Skin Irritations,Owner Observation,"Kitten has crusty discharge around its eyes and nose, along with skin sores."
+"My dog has environmental allergies (pollens, dust mites) causing ear issues.",Ear Infections,Owner Observation,"My dog has environmental allergies (pollens, dust mites) causing ear issues."
+"My dog's elbows are calloused, dark, and sometimes cracked.",Skin Irritations,Owner Observation,"My dog's elbows are calloused, dark, and sometimes cracked."
+My cat seems to gag or cough after eating.,Digestive Issues,Owner Observation,My cat seems to gag or cough after eating.
+My cat threw up clear liquid this morning and seems quiet.,Digestive Issues,Owner Observation,My cat threw up clear liquid this morning and seems quiet.
+My dog is excessively gassy and burping.,Digestive Issues,Owner Observation,My dog is excessively gassy and burping.
+My dog has elbow dysplasia causing forelimb lameness.,Mobility Problems,Owner Observation,My dog has elbow dysplasia causing forelimb lameness.
+Guinea pig is losing weight rapidly and has diarrhea.,Digestive Issues,Owner Observation,Guinea pig is losing weight rapidly and has diarrhea.
+"My cat has lungworm, diagnosed after chronic coughing.",Parasites,Owner Observation,"My cat has lungworm, diagnosed after chronic coughing."
+Rabbit has hair loss and crusting around the base of the affected ear.,Ear Infections,Owner Observation,Rabbit has hair loss and crusting around the base of the affected ear.
+My dog's ear flap swelled up suddenly like a water balloon.,Ear Infections,Owner Observation,My dog's ear flap swelled up suddenly like a water balloon.
+My rabbit is losing fur in clumps when I pet it.,Skin Irritations,Owner Observation,My rabbit is losing fur in clumps when I pet it.
+Cat has bad gas and occasional vomiting.,Digestive Issues,Owner Observation,Cat has bad gas and occasional vomiting.
+Cat seems less interested in playing with toys.,Mobility Problems,Owner Observation,Cat seems less interested in playing with toys.
+"Rabbit has white, crusty deposits in its ears.",Skin Irritations,Owner Observation,"Rabbit has white, crusty deposits in its ears."
+My dog has developed a lump that seems attached to the skin.,Skin Irritations,Owner Observation,My dog has developed a lump that seems attached to the skin.
+"Rabbit seems to have lost its balance, stumbling.",Ear Infections,Owner Observation,"Rabbit seems to have lost its balance, stumbling."
+My dog holds up his back leg occasionally when walking ('skipping').,Mobility Problems,Owner Observation,My dog holds up his back leg occasionally when walking ('skipping').
+Rabbit has lost fur on its nose from rubbing cage bars.,Skin Irritations,Owner Observation,Rabbit has lost fur on its nose from rubbing cage bars.
+My dog seems to have lost coordination in his hind limbs.,Mobility Problems,Owner Observation,My dog seems to have lost coordination in his hind limbs.
+"Dog ate chocolate, now vomiting and hyperactive.",Digestive Issues,Owner Observation,"Dog ate chocolate, now vomiting and hyperactive."
+Ferret is rubbing its body against furniture frequently.,Skin Irritations,Owner Observation,Ferret is rubbing its body against furniture frequently.
+My dog might have gotten water in his ear during his bath.,Ear Infections,Owner Observation,My dog might have gotten water in his ear during his bath.
+Found multiple ticks on my dog after a walk in the woods.,Parasites,Owner Observation,Found multiple ticks on my dog after a walk in the woods.
+There's a foul odor coming from my cat's ears.,Ear Infections,Owner Observation,There's a foul odor coming from my cat's ears.
+Puppy is being treated for Sarcoptic mange (scabies).,Parasites,Owner Observation,Puppy is being treated for Sarcoptic mange (scabies).
+Rabbit has stopped grooming itself and looks unkempt.,Digestive Issues,Owner Observation,Rabbit has stopped grooming itself and looks unkempt.
+"Cat's ears are very itchy and painful, she cries when I touch them.",Parasites,Owner Observation,"Cat's ears are very itchy and painful, she cries when I touch them."
+Cat has a soft tissue injury (sprain/strain).,Mobility Problems,Owner Observation,Cat has a soft tissue injury (sprain/strain).
+The dog keeps licking one spot on his front leg until it's raw.,Skin Irritations,Owner Observation,The dog keeps licking one spot on his front leg until it's raw.
+Cat walks very slowly and cautiously.,Mobility Problems,Owner Observation,Cat walks very slowly and cautiously.
+"My cat has Toxoplasma, I'm pregnant and concerned.",Parasites,Owner Observation,"My cat has Toxoplasma, I'm pregnant and concerned."
+My puppy has dandruff only a few days after a bath.,Skin Irritations,Owner Observation,My puppy has dandruff only a few days after a bath.
+My cat tested positive for Giardia after having diarrhea.,Parasites,Owner Observation,My cat tested positive for Giardia after having diarrhea.
+My dog's paw pads are cracked and bleeding.,Skin Irritations,Owner Observation,My dog's paw pads are cracked and bleeding.
+"My puppy seems to have a sensitive stomach, gets diarrhea easily.",Digestive Issues,Owner Observation,"My puppy seems to have a sensitive stomach, gets diarrhea easily."
+My cat's ear infection is resistant to multiple antibiotics.,Ear Infections,Owner Observation,My cat's ear infection is resistant to multiple antibiotics.
+Cat developed sudden loss of balance and circling.,Ear Infections,Owner Observation,Cat developed sudden loss of balance and circling.
+"My dog has scabies, and now I'm itchy too!",Parasites,Owner Observation,"My dog has scabies, and now I'm itchy too!"
+"Dog ate grapes off the counter, now vomiting.",Digestive Issues,Owner Observation,"Dog ate grapes off the counter, now vomiting."
+"Dog has oily, smelly skin, especially along the back.",Skin Irritations,Owner Observation,"Dog has oily, smelly skin, especially along the back."
+My dog's ear infections are a chronic problem requiring ongoing care.,Ear Infections,Owner Observation,My dog's ear infections are a chronic problem requiring ongoing care.
+Cat's ear canal looks very narrow.,Ear Infections,Owner Observation,Cat's ear canal looks very narrow.
+My dog contracted Babesia from a tick.,Parasites,Owner Observation,My dog contracted Babesia from a tick.
+Rabbit has E. cuniculi infection causing neurological/mobility issues.,Mobility Problems,Owner Observation,Rabbit has E. cuniculi infection causing neurological/mobility issues.
+"My dog suddenly couldn't stand up this morning, crying in pain.",Mobility Problems,Owner Observation,"My dog suddenly couldn't stand up this morning, crying in pain."
+Cat reacted painfully when the vet extended her hind legs.,Mobility Problems,Owner Observation,Cat reacted painfully when the vet extended her hind legs.
+"My cat only poops every 3-4 days, and the stool is very hard.",Digestive Issues,Owner Observation,"My cat only poops every 3-4 days, and the stool is very hard."
+Guinea pig has flaky skin around its eyes.,Skin Irritations,Owner Observation,Guinea pig has flaky skin around its eyes.
+My budgie has crusty growths around its beak and legs.,Parasites,Owner Observation,My budgie has crusty growths around its beak and legs.
+My cat has developed small scabs scattered throughout her coat.,Skin Irritations,Owner Observation,My cat has developed small scabs scattered throughout her coat.
+"Cat's claws seem overgrown, maybe not scratching post due to pain.",Mobility Problems,Owner Observation,"Cat's claws seem overgrown, maybe not scratching post due to pain."
+My rabbit stopped eating hay and seems lethargic.,Digestive Issues,Owner Observation,My rabbit stopped eating hay and seems lethargic.
+Cat developed arthritis in her elbow after an old fracture.,Mobility Problems,Owner Observation,Cat developed arthritis in her elbow after an old fracture.
+"Dog's limp is barely noticeable after warming up, but bad when first rising.",Mobility Problems,Owner Observation,"Dog's limp is barely noticeable after warming up, but bad when first rising."
+Dog is licking the air and swallowing repeatedly.,Digestive Issues,Owner Observation,Dog is licking the air and swallowing repeatedly.
+Ferret is vomiting undigested food shortly after eating.,Digestive Issues,Owner Observation,Ferret is vomiting undigested food shortly after eating.
+Cat cries out when I pick her up around her hips.,Mobility Problems,Owner Observation,Cat cries out when I pick her up around her hips.
+My ferret shakes its head after cleaning.,Ear Infections,Owner Observation,My ferret shakes its head after cleaning.
+Puppy has moisture in his ears after playing in water.,Ear Infections,Owner Observation,Puppy has moisture in his ears after playing in water.
+My dog has osteosarcoma (bone cancer).,Mobility Problems,Owner Observation,My dog has osteosarcoma (bone cancer).
+The skin inside my dog's ears looks red and inflamed.,Ear Infections,Owner Observation,The skin inside my dog's ears looks red and inflamed.
+Ferret suddenly became paralyzed in the back legs.,Mobility Problems,Owner Observation,Ferret suddenly became paralyzed in the back legs.
+Dog is retching forcefully but producing nothing.,Digestive Issues,Owner Observation,Dog is retching forcefully but producing nothing.
+Rabbit is scratching the base of its ears.,Ear Infections,Owner Observation,Rabbit is scratching the base of its ears.
+Rabbit is dragging one of its back legs.,Mobility Problems,Owner Observation,Rabbit is dragging one of its back legs.
+Dog has developed resistance to several types of ear drops.,Ear Infections,Owner Observation,Dog has developed resistance to several types of ear drops.
+Puppy walks with a 'bunny hop' gait.,Mobility Problems,Owner Observation,Puppy walks with a 'bunny hop' gait.
+My guinea pig is losing hair symmetrically on both sides.,Skin Irritations,Owner Observation,My guinea pig is losing hair symmetrically on both sides.
+Ferret is shaking its head due to ear mite irritation.,Parasites,Owner Observation,Ferret is shaking its head due to ear mite irritation.
+"Dog has developed moist, red patches under his collar.",Skin Irritations,Owner Observation,"Dog has developed moist, red patches under his collar."
+My rabbit has developed a large abscess under its chin.,Skin Irritations,Owner Observation,My rabbit has developed a large abscess under its chin.
+My rabbit has discharge from its eye on the same side as the droopy ear.,Ear Infections,Owner Observation,My rabbit has discharge from its eye on the same side as the droopy ear.
+"My cat brings food back up almost immediately after eating, looks undigested.",Digestive Issues,Owner Observation,"My cat brings food back up almost immediately after eating, looks undigested."
+My guinea pig has sores on the bottoms of its feet.,Skin Irritations,Owner Observation,My guinea pig has sores on the bottoms of its feet.
+"Guinea pig seems lethargic and thin, maybe internal parasites?",Parasites,Owner Observation,"Guinea pig seems lethargic and thin, maybe internal parasites?"
+"Dog has thickened, rough skin inside the ear canal (cobblestone appearance).",Ear Infections,Owner Observation,"Dog has thickened, rough skin inside the ear canal (cobblestone appearance)."
+My rabbit caught fleas from our dog.,Parasites,Owner Observation,My rabbit caught fleas from our dog.
+"My cat has what looks like dandruff, but it moves.",Skin Irritations,Owner Observation,"My cat has what looks like dandruff, but it moves."
+"Guinea pig is staying in one corner of the cage, not exploring.",Mobility Problems,Owner Observation,"Guinea pig is staying in one corner of the cage, not exploring."
+"Cat is scratching her neck raw, right where the collar sits.",Skin Irritations,Owner Observation,"Cat is scratching her neck raw, right where the collar sits."
+Guinea pig has vitamin C deficiency (scurvy) causing joint pain.,Mobility Problems,Owner Observation,Guinea pig has vitamin C deficiency (scurvy) causing joint pain.
+Cat has sores on her lips and tongue.,Skin Irritations,Owner Observation,Cat has sores on her lips and tongue.
+Cat has scratches and scabs around her ears from scratching.,Ear Infections,Owner Observation,Cat has scratches and scabs around her ears from scratching.
+My dog has exercise-induced weakness due to myasthenia gravis.,Mobility Problems,Owner Observation,My dog has exercise-induced weakness due to myasthenia gravis.
+My cat has been hiding under the bed and won't eat.,Digestive Issues,Owner Observation,My cat has been hiding under the bed and won't eat.
+My dog has panosteitis (growing pains).,Mobility Problems,Owner Observation,My dog has panosteitis (growing pains).
+My cat has fleas even though she's an indoor cat.,Parasites,Owner Observation,My cat has fleas even though she's an indoor cat.
+My dog has severe hip dysplasia confirmed by x-rays.,Mobility Problems,Owner Observation,My dog has severe hip dysplasia confirmed by x-rays.
+My dog has flaky skin along his spine.,Parasites,Owner Observation,My dog has flaky skin along his spine.
+My rabbit has 'walking dandruff' mites (Cheyletiella).,Parasites,Owner Observation,My rabbit has 'walking dandruff' mites (Cheyletiella).
+Kitten has Coccidia causing bloody diarrhea.,Parasites,Owner Observation,Kitten has Coccidia causing bloody diarrhea.
+My dog keeps shaking his head violently and scratching at his right ear.,Ear Infections,Owner Observation,My dog keeps shaking his head violently and scratching at his right ear.
+"My puppy is having diarrhea accidents inside, seems urgent.",Digestive Issues,Owner Observation,"My puppy is having diarrhea accidents inside, seems urgent."
+"Dog has greasy, pale, voluminous stools.",Digestive Issues,Owner Observation,"Dog has greasy, pale, voluminous stools."
+Cat is sensitive to noises.,Ear Infections,Owner Observation,Cat is sensitive to noises.
+"Guinea pig is limping, possibly due to lack of Vitamin C.",Mobility Problems,Owner Observation,"Guinea pig is limping, possibly due to lack of Vitamin C."
+Puppy is small for his age and has chronic soft stools.,Digestive Issues,Owner Observation,Puppy is small for his age and has chronic soft stools.
+Rabbit is holding its head tilted and seems unbalanced.,Mobility Problems,Owner Observation,Rabbit is holding its head tilted and seems unbalanced.
+My cat has vomited several times today and is now hiding.,Digestive Issues,Owner Observation,My cat has vomited several times today and is now hiding.
+"My cat has rapid, involuntary eye movements (nystagmus).",Ear Infections,Owner Observation,"My cat has rapid, involuntary eye movements (nystagmus)."
+Cat seems deaf in one ear.,Ear Infections,Owner Observation,Cat seems deaf in one ear.
+My cat has really bad breath and sometimes vomits yellow foam.,Digestive Issues,Owner Observation,My cat has really bad breath and sometimes vomits yellow foam.
+"Kitten is anemic (pale gums) and lethargic, suspecting heavy flea or worm burden.",Parasites,Owner Observation,"Kitten is anemic (pale gums) and lethargic, suspecting heavy flea or worm burden."
+Rabbit has a fractured leg.,Mobility Problems,Owner Observation,Rabbit has a fractured leg.
+Dog is swallowing repeatedly and licking his nose.,Digestive Issues,Owner Observation,Dog is swallowing repeatedly and licking his nose.
+My dog has developed dark pigmentation on previously pink skin.,Skin Irritations,Owner Observation,My dog has developed dark pigmentation on previously pink skin.
+My cat vomited pink-tinged fluid.,Digestive Issues,Owner Observation,My cat vomited pink-tinged fluid.
+My dog cries when getting up or lying down.,Mobility Problems,Owner Observation,My dog cries when getting up or lying down.
+My cat has developed a lump that feels fatty under the skin.,Skin Irritations,Owner Observation,My cat has developed a lump that feels fatty under the skin.
+Rabbit has developed urine scald from inability to posture correctly.,Mobility Problems,Owner Observation,Rabbit has developed urine scald from inability to posture correctly.
+Cat is irritable or aggressive when touched in certain areas.,Mobility Problems,Owner Observation,Cat is irritable or aggressive when touched in certain areas.
+"Dog has chronic ear infections, vet mentioned allergies.",Ear Infections,Owner Observation,"Dog has chronic ear infections, vet mentioned allergies."
+Puppy whimpers if I gently squeeze the base of his ear.,Ear Infections,Owner Observation,Puppy whimpers if I gently squeeze the base of his ear.
+"Ferret has ear mites, visible as dark debris.",Parasites,Owner Observation,"Ferret has ear mites, visible as dark debris."
+Guinea pig's back legs seem completely limp.,Mobility Problems,Owner Observation,Guinea pig's back legs seem completely limp.
+My guinea pig’s sides are red and scabby.,Skin Irritations,Owner Observation,My guinea pig’s sides are red and scabby.
+My puppy walks stiffly for the first few steps after waking up.,Mobility Problems,Owner Observation,My puppy walks stiffly for the first few steps after waking up.
+Ferret has itchy skin and some hair loss on its tail.,Skin Irritations,Owner Observation,Ferret has itchy skin and some hair loss on its tail.
+My puppy's littermates also have ear problems.,Ear Infections,Owner Observation,My puppy's littermates also have ear problems.
+My cat's eyes are darting back and forth rapidly.,Ear Infections,Owner Observation,My cat's eyes are darting back and forth rapidly.
+My dog walks with his back arched upwards.,Mobility Problems,Owner Observation,My dog walks with his back arched upwards.
+"Dog's limp is worse after resting (e.g., morning stiffness).",Mobility Problems,Owner Observation,"Dog's limp is worse after resting (e.g., morning stiffness)."
+Cat is excessively grooming her front legs.,Skin Irritations,Owner Observation,Cat is excessively grooming her front legs.
+My puppy got something stuck in his ear (grass seed?).,Ear Infections,Owner Observation,My puppy got something stuck in his ear (grass seed?).
+My dog's skin turns red and blotchy after walks in the grass.,Skin Irritations,Owner Observation,My dog's skin turns red and blotchy after walks in the grass.
+Dog has intense itching primarily at night.,Skin Irritations,Owner Observation,Dog has intense itching primarily at night.
+My dog has bone cancer causing severe leg pain.,Mobility Problems,Owner Observation,My dog has bone cancer causing severe leg pain.
+Ferret is vomiting shortly after every meal.,Digestive Issues,Owner Observation,Ferret is vomiting shortly after every meal.
+"My dog has recurring ear problems, especially after swimming.",Ear Infections,Owner Observation,"My dog has recurring ear problems, especially after swimming."
+"Cat has been chewing her hind legs, leaving raw spots.",Skin Irritations,Owner Observation,"Cat has been chewing her hind legs, leaving raw spots."
+Pet ate spoiled food and now has diarrhea.,Digestive Issues,Owner Observation,Pet ate spoiled food and now has diarrhea.
+My dog's back legs seem to cross over when he walks.,Mobility Problems,Owner Observation,My dog's back legs seem to cross over when he walks.
+Ferret needs a flea treatment that is safe and effective for them.,Parasites,Owner Observation,Ferret needs a flea treatment that is safe and effective for them.
+My dog has intervertebral disc condition (IVDD).,Mobility Problems,Owner Observation,My dog has intervertebral disc condition (IVDD).
+Guinea pig is dragging its hind legs behind it.,Mobility Problems,Owner Observation,Guinea pig is dragging its hind legs behind it.
+Cat is overgrooming areas near painful joints.,Mobility Problems,Owner Observation,Cat is overgrooming areas near painful joints.
+My cat has been hiding and refusing food for a day.,Digestive Issues,Owner Observation,My cat has been hiding and refusing food for a day.
+My dog ate fatty table scraps and is now vomiting and painful.,Digestive Issues,Owner Observation,My dog ate fatty table scraps and is now vomiting and painful.
+"My rabbit has fleas, likely from the dog.",Parasites,Owner Observation,"My rabbit has fleas, likely from the dog."
+Cat is suddenly unable to use her back legs and is crying in pain.,Mobility Problems,Owner Observation,Cat is suddenly unable to use her back legs and is crying in pain.
+My dog yelps when other dogs play near his head.,Ear Infections,Owner Observation,My dog yelps when other dogs play near his head.
+"My dog seems restless and uncomfortable, pacing after meals.",Digestive Issues,Owner Observation,"My dog seems restless and uncomfortable, pacing after meals."
+Dog has chronic ear issues that flare up when his skin allergies act up.,Ear Infections,Owner Observation,Dog has chronic ear issues that flare up when his skin allergies act up.
+"Cat is hiding, seems lethargic, and occasionally shakes her head.",Ear Infections,Owner Observation,"Cat is hiding, seems lethargic, and occasionally shakes her head."
+My puppy's ears require frequent cleaning as a preventative measure.,Ear Infections,Owner Observation,My puppy's ears require frequent cleaning as a preventative measure.
+My dog groans when lying down or changing positions.,Mobility Problems,Owner Observation,My dog groans when lying down or changing positions.
+"Kitten may have resistant parasites or Tritrichomonas, further testing needed.",Parasites,Owner Observation,"Kitten may have resistant parasites or Tritrichomonas, further testing needed."
+My cat has developed scabs along her spine.,Skin Irritations,Owner Observation,My cat has developed scabs along her spine.
+Puppy vomited pieces of chewed-up fabric.,Digestive Issues,Owner Observation,Puppy vomited pieces of chewed-up fabric.
+"Cat is lethargic and hiding, along with the head shaking.",Ear Infections,Owner Observation,"Cat is lethargic and hiding, along with the head shaking."
+Dog has what looks like a small skin tag or growth inside his ear.,Ear Infections,Owner Observation,Dog has what looks like a small skin tag or growth inside his ear.
+"My cat used to sleep on the top bunk, now she stays on the floor.",Mobility Problems,Owner Observation,"My cat used to sleep on the top bunk, now she stays on the floor."
+Hamster is not eating or drinking and looks hunched over.,Digestive Issues,Owner Observation,Hamster is not eating or drinking and looks hunched over.
+"Ferret has waxy ears, could be mites or just wax buildup.",Ear Infections,Owner Observation,"Ferret has waxy ears, could be mites or just wax buildup."
+Dog has blood and mucus in his diarrhea.,Digestive Issues,Owner Observation,Dog has blood and mucus in his diarrhea.
+My dog has underlying food allergies that seem to trigger the ear infections.,Ear Infections,Owner Observation,My dog has underlying food allergies that seem to trigger the ear infections.
+"My cat stopped using the litter box, maybe it's hard to get into.",Mobility Problems,Owner Observation,"My cat stopped using the litter box, maybe it's hard to get into."
+"My ferret seems itchy, rubbing against things.",Parasites,Owner Observation,"My ferret seems itchy, rubbing against things."
+Cat is less playful than usual.,Mobility Problems,Owner Observation,Cat is less playful than usual.
+Cat has scratched the fur off behind and below her ears.,Ear Infections,Owner Observation,Cat has scratched the fur off behind and below her ears.
+Puppy has localized demodectic mange on his face.,Parasites,Owner Observation,Puppy has localized demodectic mange on his face.
+Ferret is pawing at its mouth and seems nauseous.,Digestive Issues,Owner Observation,Ferret is pawing at its mouth and seems nauseous.
+Cat hesitates before jumping down.,Mobility Problems,Owner Observation,Cat hesitates before jumping down.
+Ferret has ear mites causing head shaking.,Parasites,Owner Observation,Ferret has ear mites causing head shaking.
+Cat has blisters appearing on her skin.,Skin Irritations,Owner Observation,Cat has blisters appearing on her skin.
+"There's black, waxy gunk coming out of my dog's ears.",Ear Infections,Owner Observation,"There's black, waxy gunk coming out of my dog's ears."
+My dog's ear smells yeasty.,Ear Infections,Owner Observation,My dog's ear smells yeasty.
+Cat has a non-healing sore on her ear flap.,Skin Irritations,Owner Observation,Cat has a non-healing sore on her ear flap.
+Dog has chronic whipworm infection.,Parasites,Owner Observation,Dog has chronic whipworm infection.
+Rabbit is sitting hunched and grinding its teeth.,Digestive Issues,Owner Observation,Rabbit is sitting hunched and grinding its teeth.
+"Dog has trouble squatting to poop, sometimes falls over.",Mobility Problems,Owner Observation,"Dog has trouble squatting to poop, sometimes falls over."
+Puppy has a dull coat and is underweight.,Parasites,Owner Observation,Puppy has a dull coat and is underweight.
+Cat has started pooping outside the litter box on the rug.,Mobility Problems,Owner Observation,Cat has started pooping outside the litter box on the rug.
+"My dog's movement seems restricted, less range of motion.",Mobility Problems,Owner Observation,"My dog's movement seems restricted, less range of motion."
+My dog's skin seems greasy and has a strong odor.,Skin Irritations,Owner Observation,My dog's skin seems greasy and has a strong odor.
+"My dog walks with short, choppy steps.",Mobility Problems,Owner Observation,"My dog walks with short, choppy steps."
+My dog has extremely foul-smelling gas.,Digestive Issues,Owner Observation,My dog has extremely foul-smelling gas.
+My bird has scaly mites on its legs.,Parasites,Owner Observation,My bird has scaly mites on its legs.
+Rabbit looks dull and isn't drinking much water.,Digestive Issues,Owner Observation,Rabbit looks dull and isn't drinking much water.
+Dog has diarrhea with a fishy odor.,Digestive Issues,Owner Observation,Dog has diarrhea with a fishy odor.
+Dog has a rash after swimming in a pond.,Skin Irritations,Owner Observation,Dog has a rash after swimming in a pond.
+Dog has bouts of vomiting and diarrhea that come and go.,Digestive Issues,Owner Observation,Dog has bouts of vomiting and diarrhea that come and go.
+Dog has chronic large bowel diarrhea due to whipworms.,Parasites,Owner Observation,Dog has chronic large bowel diarrhea due to whipworms.
+Puppy has mild redness and a small amount of wax in both ears.,Ear Infections,Owner Observation,Puppy has mild redness and a small amount of wax in both ears.
+The discharge from my dog's ear looks slightly bloody.,Ear Infections,Owner Observation,The discharge from my dog's ear looks slightly bloody.
+Ferret is pawing at his mouth and drooling.,Digestive Issues,Owner Observation,Ferret is pawing at his mouth and drooling.
+The skin between my dog's toes is red and inflamed.,Skin Irritations,Owner Observation,The skin between my dog's toes is red and inflamed.
+My puppy seems dizzy.,Ear Infections,Owner Observation,My puppy seems dizzy.
+My rabbit developed an abscess below its ear.,Ear Infections,Owner Observation,My rabbit developed an abscess below its ear.
+My cat has a swollen lower lip.,Skin Irritations,Owner Observation,My cat has a swollen lower lip.
+"My cat passed several long, white, round worms in her stool.",Parasites,Owner Observation,"My cat passed several long, white, round worms in her stool."
+My cat has fleas resistant to the spot-on treatment I used.,Parasites,Owner Observation,My cat has fleas resistant to the spot-on treatment I used.
+Cat seems to have nerve damage in her front leg after an injury.,Mobility Problems,Owner Observation,Cat seems to have nerve damage in her front leg after an injury.
+Dog has hookworm anemia.,Parasites,Owner Observation,Dog has hookworm anemia.
+"My dog's hind legs seem uncoordinated, crossing over each other.",Mobility Problems,Owner Observation,"My dog's hind legs seem uncoordinated, crossing over each other."
+Dog has yellowish diarrhea.,Digestive Issues,Owner Observation,Dog has yellowish diarrhea.
+Guinea pig is not moving around its cage much.,Mobility Problems,Owner Observation,Guinea pig is not moving around its cage much.
+"Dog has adult-onset generalized demodicosis, need to check for underlying issues.",Parasites,Owner Observation,"Dog has adult-onset generalized demodicosis, need to check for underlying issues."
+"My kitten has fleas, I saw them jumping.",Parasites,Owner Observation,"My kitten has fleas, I saw them jumping."
+Dog has developed bald spots on his muzzle and around his eyes.,Parasites,Owner Observation,Dog has developed bald spots on his muzzle and around his eyes.
+"Ferret has tiny black specks in its fur, might be dirt or bugs.",Skin Irritations,Owner Observation,"Ferret has tiny black specks in its fur, might be dirt or bugs."
+My cat doesn't seem to hear me approaching from one side.,Ear Infections,Owner Observation,My cat doesn't seem to hear me approaching from one side.
+Dog has itchy bumps primarily on his back near the tail.,Skin Irritations,Owner Observation,Dog has itchy bumps primarily on his back near the tail.
+My dog has lost muscle mass in his hind legs.,Mobility Problems,Owner Observation,My dog has lost muscle mass in his hind legs.
+"Cat vomited something that looked dark brown, like old blood.",Digestive Issues,Owner Observation,"Cat vomited something that looked dark brown, like old blood."
+"Dog has black, tar-like stool.",Digestive Issues,Owner Observation,"Dog has black, tar-like stool."
+"Cat has itchy, crusty lesions on the bridge of her nose.",Skin Irritations,Owner Observation,"Cat has itchy, crusty lesions on the bridge of her nose."
+Dog’s ears have a greasy discharge and bad smell.,Ear Infections,Owner Observation,Dog’s ears have a greasy discharge and bad smell.
+Cat’s ears are hot and have a yeasty smell.,Ear Infections,Owner Observation,Cat’s ears are hot and have a yeasty smell.
+My cat has developed swelling on her lip.,Skin Irritations,Owner Observation,My cat has developed swelling on her lip.
+My dog likely got tapeworms from ingesting fleas.,Parasites,Owner Observation,My dog likely got tapeworms from ingesting fleas.
+My dog has had surgery (TECA) for end-stage ear condition.,Ear Infections,Owner Observation,My dog has had surgery (TECA) for end-stage ear condition.
+My dog is reluctant to go up or down stairs.,Mobility Problems,Owner Observation,My dog is reluctant to go up or down stairs.
+"Ferret has dark, crusty debris in his ears, likely mites.",Parasites,Owner Observation,"Ferret has dark, crusty debris in his ears, likely mites."
+Dog tires easily on walks and wants to turn back early.,Mobility Problems,Owner Observation,Dog tires easily on walks and wants to turn back early.
+My dog's kneecap pops in and out of place (luxating patella).,Mobility Problems,Owner Observation,My dog's kneecap pops in and out of place (luxating patella).
+My rabbit has sores on its feet and is losing fur there.,Parasites,Owner Observation,My rabbit has sores on its feet and is losing fur there.
+My cat vomited something that looked like a small worm.,Parasites,Owner Observation,My cat vomited something that looked like a small worm.
+Ferret has hind limb paralysis.,Mobility Problems,Owner Observation,Ferret has hind limb paralysis.
+"Dog has red, irritated skin and black specks (like dirt) that turn red when wet.",Parasites,Owner Observation,"Dog has red, irritated skin and black specks (like dirt) that turn red when wet."
+"Ferret is anemic, possibly due to fleas.",Parasites,Owner Observation,"Ferret is anemic, possibly due to fleas."
+"Cat moves very deliberately, almost like she's walking on eggshells.",Mobility Problems,Owner Observation,"Cat moves very deliberately, almost like she's walking on eggshells."
+"Noticed a thick, dark brown discharge inside my dog's ear flap.",Ear Infections,Owner Observation,"Noticed a thick, dark brown discharge inside my dog's ear flap."
+Puppy cries and tries to bite when I touch near his left ear.,Ear Infections,Owner Observation,Puppy cries and tries to bite when I touch near his left ear.
+My cat's fur along her spine looks greasy and matted.,Skin Irritations,Owner Observation,My cat's fur along her spine looks greasy and matted.
+The opening to my dog's ear canal looks swollen almost closed.,Ear Infections,Owner Observation,The opening to my dog's ear canal looks swollen almost closed.
+Cat is rubbing the side of her head on the floor and furniture.,Ear Infections,Owner Observation,Cat is rubbing the side of her head on the floor and furniture.
+Dog has a hematoma that keeps refilling after being drained.,Ear Infections,Owner Observation,Dog has a hematoma that keeps refilling after being drained.
+Cat is grooming her belly so much it's almost bald.,Parasites,Owner Observation,Cat is grooming her belly so much it's almost bald.
+Dog has small blood spots on the skin where he's been scratching.,Skin Irritations,Owner Observation,Dog has small blood spots on the skin where he's been scratching.
+Rabbit is shaking its head and scratching behind the ears.,Parasites,Owner Observation,Rabbit is shaking its head and scratching behind the ears.
+The discharge from the ear is bloody.,Ear Infections,Owner Observation,The discharge from the ear is bloody.
+"Dog has very dark, almost black stool.",Digestive Issues,Owner Observation,"Dog has very dark, almost black stool."
+"My dog's joints seem swollen, especially his knees.",Mobility Problems,Owner Observation,"My dog's joints seem swollen, especially his knees."
+My dog sometimes walks on the top of his paw instead of the pad.,Mobility Problems,Owner Observation,My dog sometimes walks on the top of his paw instead of the pad.
+"Guinea pig has Trixacarus mange, causing intense itching and seizures.",Parasites,Owner Observation,"Guinea pig has Trixacarus mange, causing intense itching and seizures."
+My hamster is scratching behind its ears constantly.,Skin Irritations,Owner Observation,My hamster is scratching behind its ears constantly.
+"Ferret seems weak in his back legs, dragging them slightly.",Mobility Problems,Owner Observation,"Ferret seems weak in his back legs, dragging them slightly."
+"My dog gets ear infections constantly, vet thinks mites might be involved.",Parasites,Owner Observation,"My dog gets ear infections constantly, vet thinks mites might be involved."
+Cat has difficulty grooming her back.,Mobility Problems,Owner Observation,Cat has difficulty grooming her back.
+Puppy vomited undigested food several hours after eating.,Digestive Issues,Owner Observation,Puppy vomited undigested food several hours after eating.
+My cat has a drooping eyelid and smaller pupil on the same side as the head tilt.,Ear Infections,Owner Observation,My cat has a drooping eyelid and smaller pupil on the same side as the head tilt.
+My senior dog is having trouble getting up from his bed.,Mobility Problems,Owner Observation,My senior dog is having trouble getting up from his bed.
+"Dog strains to defecate, only producing small amounts of liquid.",Digestive Issues,Owner Observation,"Dog strains to defecate, only producing small amounts of liquid."
+Ferret has orange-ish discoloration of the skin.,Skin Irritations,Owner Observation,Ferret has orange-ish discoloration of the skin.
+My cat has a history of ear polyps.,Ear Infections,Owner Observation,My cat has a history of ear polyps.
+"My puppy seems unsteady on his feet, like the room is spinning.",Ear Infections,Owner Observation,"My puppy seems unsteady on his feet, like the room is spinning."
+"Dog trembles sometimes, especially his back legs, when standing.",Mobility Problems,Owner Observation,"Dog trembles sometimes, especially his back legs, when standing."
+"Dog is intensely itchy, especially on his elbows and ear margins.",Parasites,Owner Observation,"Dog is intensely itchy, especially on his elbows and ear margins."
+"My dog drags his back toenails sometimes, making a scraping sound.",Mobility Problems,Owner Observation,"My dog drags his back toenails sometimes, making a scraping sound."
+"Dog has thickened, elephant-like skin in chronically itchy areas.",Skin Irritations,Owner Observation,"Dog has thickened, elephant-like skin in chronically itchy areas."
+Pet struggles to get up from lying down.,Mobility Problems,Owner Observation,Pet struggles to get up from lying down.
+My rabbit has redness and swelling around its genitals.,Skin Irritations,Owner Observation,My rabbit has redness and swelling around its genitals.
+"Cat’s back has pink, weepy sores from scratching.",Skin Irritations,Owner Observation,"Cat’s back has pink, weepy sores from scratching."
+My ferret seems itchy all over.,Parasites,Owner Observation,My ferret seems itchy all over.
+"Cat keeps retching like she needs to cough up a hairball, but doesn't.",Digestive Issues,Owner Observation,"Cat keeps retching like she needs to cough up a hairball, but doesn't."
+My dog ate chicken bones and is now lethargic and straining.,Digestive Issues,Owner Observation,My dog ate chicken bones and is now lethargic and straining.
+My puppy has debris in his ears that looks like coffee grounds.,Ear Infections,Owner Observation,My puppy has debris in his ears that looks like coffee grounds.
+"My cat seems dizzy, stumbling and walking in circles.",Ear Infections,Owner Observation,"My cat seems dizzy, stumbling and walking in circles."
+Cat seems painful when the vet manipulates her legs.,Mobility Problems,Owner Observation,Cat seems painful when the vet manipulates her legs.
+My rabbit’s ears are red and smell unpleasant.,Ear Infections,Owner Observation,My rabbit’s ears are red and smell unpleasant.
+"Ferret has green, slimy diarrhea.",Digestive Issues,Owner Observation,"Ferret has green, slimy diarrhea."
+My cat misses jumps sometimes.,Mobility Problems,Owner Observation,My cat misses jumps sometimes.
+Dog has inflammation extending to the outside of the ear flap.,Ear Infections,Owner Observation,Dog has inflammation extending to the outside of the ear flap.
+My dog seems to lose his balance easily.,Mobility Problems,Owner Observation,My dog seems to lose his balance easily.
+"Cat vomits undigested food about once a week, seems fine otherwise.",Digestive Issues,Owner Observation,"Cat vomits undigested food about once a week, seems fine otherwise."
+Puppy has mild redness in both ears.,Ear Infections,Owner Observation,Puppy has mild redness in both ears.
+My cat vomited a worm.,Digestive Issues,Owner Observation,My cat vomited a worm.
+My hamster is losing patches of fur and scratching.,Parasites,Owner Observation,My hamster is losing patches of fur and scratching.
+My cat has ear mites again.,Parasites,Owner Observation,My cat has ear mites again.
+Cat is constantly licking at her knee joint.,Mobility Problems,Owner Observation,Cat is constantly licking at her knee joint.
+Dog started holding up his back right leg after chasing a squirrel.,Mobility Problems,Owner Observation,Dog started holding up his back right leg after chasing a squirrel.
+"My puppy is a breed with heavy, floppy ears that don't get good airflow.",Ear Infections,Owner Observation,"My puppy is a breed with heavy, floppy ears that don't get good airflow."
+My dog has arthritis diagnosed by the vet.,Mobility Problems,Owner Observation,My dog has arthritis diagnosed by the vet.
+Hamster has hair loss around its scent glands.,Skin Irritations,Owner Observation,Hamster has hair loss around its scent glands.
+Cat likely has a muscle sprain or strain causing limping.,Mobility Problems,Owner Observation,Cat likely has a muscle sprain or strain causing limping.
+My bird is lethargic and its droppings look abnormal.,Parasites,Owner Observation,My bird is lethargic and its droppings look abnormal.
+My rabbit has developed a swelling near the base of its ear.,Ear Infections,Owner Observation,My rabbit has developed a swelling near the base of its ear.
+My rabbit has fly eggs visible on its soiled rear end.,Skin Irritations,Owner Observation,My rabbit has fly eggs visible on its soiled rear end.
+"My puppy has persistent diarrhea, vet found coccidia.",Parasites,Owner Observation,"My puppy has persistent diarrhea, vet found coccidia."
+"Cat is scratching near, but not directly in, the ear.",Ear Infections,Owner Observation,"Cat is scratching near, but not directly in, the ear."
+Cat has a middle ear infection causing neurological signs.,Ear Infections,Owner Observation,Cat has a middle ear infection causing neurological signs.
+Cat has developed a head tilt suddenly.,Ear Infections,Owner Observation,Cat has developed a head tilt suddenly.
+"Ferret has dark, coffee ground-like debris in his ears.",Ear Infections,Owner Observation,"Ferret has dark, coffee ground-like debris in his ears."
+My cat has difficulty swallowing.,Digestive Issues,Owner Observation,My cat has difficulty swallowing.
+"Dog raided the kitchen bin last night, now has terrible diarrhea.",Digestive Issues,Owner Observation,"Dog raided the kitchen bin last night, now has terrible diarrhea."
+"Ferret has waxy debris, possibly ear mites.",Ear Infections,Owner Observation,"Ferret has waxy debris, possibly ear mites."
+"Ferret has very thick, dark, waxy buildup in both ears.",Ear Infections,Owner Observation,"Ferret has very thick, dark, waxy buildup in both ears."
+Rabbit has ear mites causing head tilt.,Parasites,Owner Observation,Rabbit has ear mites causing head tilt.
+Puppy got water in his ears playing with the hose.,Ear Infections,Owner Observation,Puppy got water in his ears playing with the hose.
+My dog has Legg-Calve-Perthes condition.,Mobility Problems,Owner Observation,My dog has Legg-Calve-Perthes condition.
+"My finch is wheezing and clicking, suspect air sac mites.",Parasites,Owner Observation,"My finch is wheezing and clicking, suspect air sac mites."
+Cat vomited what looks like coffee grounds.,Digestive Issues,Owner Observation,Cat vomited what looks like coffee grounds.
+"My bird has air sac mites, causing breathing difficulty.",Parasites,Owner Observation,"My bird has air sac mites, causing breathing difficulty."
+Cat's paws are swollen and red.,Skin Irritations,Owner Observation,Cat's paws are swollen and red.
+Dog has yeast overgrowth in his ears.,Ear Infections,Owner Observation,Dog has yeast overgrowth in his ears.
+Kitten has persistent diarrhea despite deworming.,Parasites,Owner Observation,Kitten has persistent diarrhea despite deworming.
+My cat vomited pinkish foam.,Digestive Issues,Owner Observation,My cat vomited pinkish foam.
+My guinea pig is scratching so much it has open sores.,Parasites,Owner Observation,My guinea pig is scratching so much it has open sores.
+My dog gets diarrhea whenever we have visitors or travel.,Digestive Issues,Owner Observation,My dog gets diarrhea whenever we have visitors or travel.
+My dog's ear infection seemed better but came right back after stopping meds.,Ear Infections,Owner Observation,My dog's ear infection seemed better but came right back after stopping meds.
+Cat suddenly refuses to eat her usual food.,Digestive Issues,Owner Observation,Cat suddenly refuses to eat her usual food.
+My dog has hives that appear and disappear quickly.,Skin Irritations,Owner Observation,My dog has hives that appear and disappear quickly.
+"Guinea pig seems weak and is losing weight, maybe internal parasites?",Parasites,Owner Observation,"Guinea pig seems weak and is losing weight, maybe internal parasites?"
+"Ferret is lethargic and not eating, vomited once.",Digestive Issues,Owner Observation,"Ferret is lethargic and not eating, vomited once."
+My dog stumbles frequently.,Mobility Problems,Owner Observation,My dog stumbles frequently.
+My dog's ear problems always seem worse during allergy season.,Ear Infections,Owner Observation,My dog's ear problems always seem worse during allergy season.
+"My kitten is covered in fleas, they are crawling all over.",Parasites,Owner Observation,"My kitten is covered in fleas, they are crawling all over."
+My dog keeps gulping and seems uncomfortable after eating.,Digestive Issues,Owner Observation,My dog keeps gulping and seems uncomfortable after eating.
+My cat has symmetrical hair loss on both flanks.,Skin Irritations,Owner Observation,My cat has symmetrical hair loss on both flanks.
+Rabbit has spondylosis.,Mobility Problems,Owner Observation,Rabbit has spondylosis.
+Cat has crusty ear tips.,Ear Infections,Owner Observation,Cat has crusty ear tips.
+The skin inside my dog's ear canals looks bright red and sore.,Ear Infections,Owner Observation,The skin inside my dog's ear canals looks bright red and sore.
+My dog sometimes trips over his own feet.,Mobility Problems,Owner Observation,My dog sometimes trips over his own feet.
+My rabbit has bald patches on its nose from rubbing the cage.,Skin Irritations,Owner Observation,My rabbit has bald patches on its nose from rubbing the cage.
+Hamster's skin looks red and irritated inside its cheek pouches.,Skin Irritations,Owner Observation,Hamster's skin looks red and irritated inside its cheek pouches.
+"My dog's paw pads feel rough and crusty, almost like horns.",Skin Irritations,Owner Observation,"My dog's paw pads feel rough and crusty, almost like horns."
+My cat has bald patches above her eyes.,Skin Irritations,Owner Observation,My cat has bald patches above her eyes.
+Dog's ear infection smells like Pseudomonas (sickly sweet).,Ear Infections,Owner Observation,Dog's ear infection smells like Pseudomonas (sickly sweet).
+"Dog has dry, brittle fur and flaky skin.",Skin Irritations,Owner Observation,"Dog has dry, brittle fur and flaky skin."
+Ferret has crusty skin around its eyes and chin.,Skin Irritations,Owner Observation,Ferret has crusty skin around its eyes and chin.
+Rabbit is lethargic and dehydrated (skin tents when pinched).,Digestive Issues,Owner Observation,Rabbit is lethargic and dehydrated (skin tents when pinched).
+Rabbit has severe crusting in ears diagnosed as mites.,Ear Infections,Owner Observation,Rabbit has severe crusting in ears diagnosed as mites.
+My puppy seems bloated and is trying to vomit but nothing comes up.,Digestive Issues,Owner Observation,My puppy seems bloated and is trying to vomit but nothing comes up.
+Hamster has wetness and staining around its tail.,Skin Irritations,Owner Observation,Hamster has wetness and staining around its tail.
+"Rabbit's fur is matted, and the skin underneath looks irritated and flaky.",Parasites,Owner Observation,"Rabbit's fur is matted, and the skin underneath looks irritated and flaky."
+Guinea pig is dragging its hind end.,Mobility Problems,Owner Observation,Guinea pig is dragging its hind end.
+My cat is sensitive to being petted along her back.,Skin Irritations,Owner Observation,My cat is sensitive to being petted along her back.
+Puppy has pustules and redness on his chin and muzzle.,Skin Irritations,Owner Observation,Puppy has pustules and redness on his chin and muzzle.
+My dog is trying to eat grass frantically.,Digestive Issues,Owner Observation,My dog is trying to eat grass frantically.
+My rabbit is scratching its chin and neck area frequently.,Skin Irritations,Owner Observation,My rabbit is scratching its chin and neck area frequently.
+"Dog's ear infection has a particularly nasty, 'rotten' smell.",Ear Infections,Owner Observation,"Dog's ear infection has a particularly nasty, 'rotten' smell."
+My cat has both fleas and tapeworm segments.,Parasites,Owner Observation,My cat has both fleas and tapeworm segments.
+Cat has thinning hair around her eyes and face.,Parasites,Owner Observation,Cat has thinning hair around her eyes and face.
+My dog's skin looks bruised in areas without any known trauma.,Skin Irritations,Owner Observation,My dog's skin looks bruised in areas without any known trauma.
+My ferret's ears look red inside.,Ear Infections,Owner Observation,My ferret's ears look red inside.
+"My bird is restless and picking at its feathers, I think I see tiny bugs.",Parasites,Owner Observation,"My bird is restless and picking at its feathers, I think I see tiny bugs."
+"Dog has severe flea infestation, requiring immediate intervention.",Parasites,Owner Observation,"Dog has severe flea infestation, requiring immediate intervention."
+"Noticed some creamy, yellow discharge draining from my puppy's ear.",Ear Infections,Owner Observation,"Noticed some creamy, yellow discharge draining from my puppy's ear."
+My dog's nails are scuffing the ground when he walks.,Mobility Problems,Owner Observation,My dog's nails are scuffing the ground when he walks.
+My dog has bad breath that smells like feces.,Digestive Issues,Owner Observation,My dog has bad breath that smells like feces.
+Dog has diarrhea containing undigested food particles.,Digestive Issues,Owner Observation,Dog has diarrhea containing undigested food particles.
+My lovebird is chewing its feathers down to the skin.,Parasites,Owner Observation,My lovebird is chewing its feathers down to the skin.
+My puppy has accidents in the house (diarrhea) overnight.,Digestive Issues,Owner Observation,My puppy has accidents in the house (diarrhea) overnight.
+Ferret is weak in the hind limbs.,Mobility Problems,Owner Observation,Ferret is weak in the hind limbs.
+My dog favors one leg consistently.,Mobility Problems,Owner Observation,My dog favors one leg consistently.
+Ferret has diarrhea and seems very weak.,Digestive Issues,Owner Observation,Ferret has diarrhea and seems very weak.
+My dog has hair loss that seems to follow a seasonal pattern.,Skin Irritations,Owner Observation,My dog has hair loss that seems to follow a seasonal pattern.
+"Ferret has black, tarry stools, could it be from parasites?",Parasites,Owner Observation,"Ferret has black, tarry stools, could it be from parasites?"
+"My dog has recurring ear infections, vet suspects underlying mites.",Parasites,Owner Observation,"My dog has recurring ear infections, vet suspects underlying mites."
+"My cat licks her belly raw, especially after eating certain foods.",Skin Irritations,Owner Observation,"My cat licks her belly raw, especially after eating certain foods."
+"Ferret has dark, tarry stool, could parasites cause this?",Parasites,Owner Observation,"Ferret has dark, tarry stool, could parasites cause this?"
+Dog has oily skin and recurrent skin infections.,Skin Irritations,Owner Observation,Dog has oily skin and recurrent skin infections.
+"My puppy is constantly hungry but not gaining weight, has loose stools.",Digestive Issues,Owner Observation,"My puppy is constantly hungry but not gaining weight, has loose stools."
+Found several attached ticks on my dog after hiking.,Parasites,Owner Observation,Found several attached ticks on my dog after hiking.
+"Noticed thickened, dark skin in my dog's armpits that seems itchy.",Skin Irritations,Owner Observation,"Noticed thickened, dark skin in my dog's armpits that seems itchy."
+My dog has bumps between his toes.,Skin Irritations,Owner Observation,My dog has bumps between his toes.
+My cat started shaking her head after a groomer visit.,Ear Infections,Owner Observation,My cat started shaking her head after a groomer visit.
+My cat has what looks like walking dandruff.,Parasites,Owner Observation,My cat has what looks like walking dandruff.
+My rabbit has severe crusting in ears from Psoroptes mites.,Parasites,Owner Observation,My rabbit has severe crusting in ears from Psoroptes mites.
+Dog has ticks attached deep inside his ear canals.,Parasites,Owner Observation,Dog has ticks attached deep inside his ear canals.
+"Dog has chronic skin issues, vet suspects Demodex mites.",Parasites,Owner Observation,"Dog has chronic skin issues, vet suspects Demodex mites."
+Rabbit seems weak all over.,Mobility Problems,Owner Observation,Rabbit seems weak all over.
+Hamster has fecal staining and wetness around the tail and belly.,Digestive Issues,Owner Observation,Hamster has fecal staining and wetness around the tail and belly.
+"Dog has chronic skin problems, vet diagnosed generalized Demodex.",Parasites,Owner Observation,"Dog has chronic skin problems, vet diagnosed generalized Demodex."
+"My dog takes very short, stiff steps with his front legs.",Mobility Problems,Owner Observation,"My dog takes very short, stiff steps with his front legs."
+My dog lags behind on walks and seems reluctant to continue.,Mobility Problems,Owner Observation,My dog lags behind on walks and seems reluctant to continue.
+"My rabbit has very large, soft cecotropes that are uneaten.",Digestive Issues,Owner Observation,"My rabbit has very large, soft cecotropes that are uneaten."
+My dog gets recurring skin infections in the folds of his face.,Skin Irritations,Owner Observation,My dog gets recurring skin infections in the folds of his face.
+My ferret is scratching intensely at its ears.,Ear Infections,Owner Observation,My ferret is scratching intensely at its ears.
+My rabbit got diarrhea after I gave him too much fruit.,Digestive Issues,Owner Observation,My rabbit got diarrhea after I gave him too much fruit.
+"My dog seems wobbly and uncoordinated, especially in the rear.",Mobility Problems,Owner Observation,"My dog seems wobbly and uncoordinated, especially in the rear."
+Guinea pig has stopped producing fecal pellets.,Digestive Issues,Owner Observation,Guinea pig has stopped producing fecal pellets.
+My cat doesn't jump onto the furniture anymore.,Mobility Problems,Owner Observation,My cat doesn't jump onto the furniture anymore.
+"My cat has fleas, causing miliary dermatitis.",Parasites,Owner Observation,"My cat has fleas, causing miliary dermatitis."
+Guinea pig is losing large clumps of hair.,Skin Irritations,Owner Observation,Guinea pig is losing large clumps of hair.
+Puppy got diarrhea right after we changed his food brand.,Digestive Issues,Owner Observation,Puppy got diarrhea right after we changed his food brand.
+"Rabbit is lethargic and not eating well, possibly due to pain.",Mobility Problems,Owner Observation,"Rabbit is lethargic and not eating well, possibly due to pain."
+Puppy's skin is peeling slightly after a bath with new shampoo.,Skin Irritations,Owner Observation,Puppy's skin is peeling slightly after a bath with new shampoo.
+"Rabbit has white, powdery substance accumulating in its fur.",Skin Irritations,Owner Observation,"Rabbit has white, powdery substance accumulating in its fur."
+My puppy has soft stool ever since we got him.,Digestive Issues,Owner Observation,My puppy has soft stool ever since we got him.
+Guinea pig seems bloated and uncomfortable.,Digestive Issues,Owner Observation,Guinea pig seems bloated and uncomfortable.
+"My dog seems to have heartburn (gulping, licking air).",Digestive Issues,Owner Observation,"My dog seems to have heartburn (gulping, licking air)."
+Rabbit has thick crusts forming on its skin.,Skin Irritations,Owner Observation,Rabbit has thick crusts forming on its skin.
+Cat has painful swelling around multiple joints.,Mobility Problems,Owner Observation,Cat has painful swelling around multiple joints.
+My cat seems to have fleas that aren't killed by her usual spot-on.,Parasites,Owner Observation,My cat seems to have fleas that aren't killed by her usual spot-on.
+Dog’s ears are crusty and smell like mold.,Ear Infections,Owner Observation,Dog’s ears are crusty and smell like mold.
+Dog has difficulty posturing to urinate or defecate.,Mobility Problems,Owner Observation,Dog has difficulty posturing to urinate or defecate.
+Guinea pig has dandruff and seems uncomfortable when petted.,Skin Irritations,Owner Observation,Guinea pig has dandruff and seems uncomfortable when petted.
+Ferret has bright green diarrhea.,Digestive Issues,Owner Observation,Ferret has bright green diarrhea.
+"Kitten is sneezing and has discharge, could it be lungworms?",Parasites,Owner Observation,"Kitten is sneezing and has discharge, could it be lungworms?"
+Cat is licking the fur off her legs.,Skin Irritations,Owner Observation,Cat is licking the fur off her legs.
+My cat has bumps under the skin that can be felt but not easily seen.,Skin Irritations,Owner Observation,My cat has bumps under the skin that can be felt but not easily seen.
+Rabbit has pus draining from one ear.,Ear Infections,Owner Observation,Rabbit has pus draining from one ear.
+"Dog's ear canal lining looks thick and bumpy, like cobblestones.",Ear Infections,Owner Observation,"Dog's ear canal lining looks thick and bumpy, like cobblestones."
+Guinea pig has difficulty moving after a fall.,Mobility Problems,Owner Observation,Guinea pig has difficulty moving after a fall.
+My rabbit has matted fur and sores underneath on its hindquarters.,Skin Irritations,Owner Observation,My rabbit has matted fur and sores underneath on its hindquarters.
+My bird has Giardia.,Parasites,Owner Observation,My bird has Giardia.
+My new kitten has a really round belly and doesn't seem to be growing much.,Parasites,Owner Observation,My new kitten has a really round belly and doesn't seem to be growing much.
+Cat has difficulty navigating stairs.,Mobility Problems,Owner Observation,Cat has difficulty navigating stairs.
+"My cat's fur looks dull and unkempt, and she has flakes.",Skin Irritations,Owner Observation,"My cat's fur looks dull and unkempt, and she has flakes."
+My dog slid on the ice and has been limping on his front leg since.,Mobility Problems,Owner Observation,My dog slid on the ice and has been limping on his front leg since.
+"Guinea pig has swollen, painful feet.",Mobility Problems,Owner Observation,"Guinea pig has swollen, painful feet."
+Rabbit has redness and hair loss on the soles of its hind feet.,Skin Irritations,Owner Observation,Rabbit has redness and hair loss on the soles of its hind feet.
+Kitten has hookworms according to the fecal test.,Parasites,Owner Observation,Kitten has hookworms according to the fecal test.
+Dog is rubbing his face on the carpet constantly.,Skin Irritations,Owner Observation,Dog is rubbing his face on the carpet constantly.
+My puppy has developed a swollen muzzle and face.,Skin Irritations,Owner Observation,My puppy has developed a swollen muzzle and face.
+My dog has significant muscle wasting in his hind end.,Mobility Problems,Owner Observation,My dog has significant muscle wasting in his hind end.
+Cat has inflammation and discharge around her nail beds.,Skin Irritations,Owner Observation,Cat has inflammation and discharge around her nail beds.
+My dog has ear mites confirmed by microscopic exam.,Parasites,Owner Observation,My dog has ear mites confirmed by microscopic exam.
+Cat keeps vomiting small amounts of bile.,Digestive Issues,Owner Observation,Cat keeps vomiting small amounts of bile.
+My dog has Valley Fever affecting his bones.,Mobility Problems,Owner Observation,My dog has Valley Fever affecting his bones.
+"My dog has tapeworms, probably from fleas.",Parasites,Owner Observation,"My dog has tapeworms, probably from fleas."
+Dog has developed resistance to previous ear medications.,Ear Infections,Owner Observation,Dog has developed resistance to previous ear medications.
+My dog has a secondary skin infection from scratching flea bites.,Parasites,Owner Observation,My dog has a secondary skin infection from scratching flea bites.
+There are little white things that look like rice grains stuck to the fur around my dog's anus.,Parasites,Owner Observation,There are little white things that look like rice grains stuck to the fur around my dog's anus.
+Cat has started eliminating outside the litter box.,Mobility Problems,Owner Observation,Cat has started eliminating outside the litter box.
+Ferret has lost a lot of weight over the last month.,Digestive Issues,Owner Observation,Ferret has lost a lot of weight over the last month.
+My cat fights me and cries when I try to put ear drops in.,Ear Infections,Owner Observation,My cat fights me and cries when I try to put ear drops in.
+My cat has bumps along her spine.,Skin Irritations,Owner Observation,My cat has bumps along her spine.
+Cat is losing weight despite having a good appetite.,Digestive Issues,Owner Observation,Cat is losing weight despite having a good appetite.
+Ferret seems painful when his jaw area is touched.,Ear Infections,Owner Observation,Ferret seems painful when his jaw area is touched.
+"My rabbit has thick, flaky crusts inside both ears.",Ear Infections,Owner Observation,"My rabbit has thick, flaky crusts inside both ears."
+My ferret's inner ear flaps look red and irritated.,Ear Infections,Owner Observation,My ferret's inner ear flaps look red and irritated.
+Pet’s ears are red and have a musty odor.,Ear Infections,Owner Observation,Pet’s ears are red and have a musty odor.
+Guinea pig has swollen feet (bumblefoot).,Mobility Problems,Owner Observation,Guinea pig has swollen feet (bumblefoot).
+"My ferret’s belly has red, irritated spots.",Skin Irritations,Owner Observation,"My ferret’s belly has red, irritated spots."
+My rabbit has white flakes in its ears.,Ear Infections,Owner Observation,My rabbit has white flakes in its ears.
+Dog has intermittent episodes of vomiting and diarrhea.,Digestive Issues,Owner Observation,Dog has intermittent episodes of vomiting and diarrhea.
+Rabbit's fur is matted and it seems itchy underneath.,Parasites,Owner Observation,Rabbit's fur is matted and it seems itchy underneath.
+My dog's ears smell yeasty and the skin inside looks thickened.,Skin Irritations,Owner Observation,My dog's ears smell yeasty and the skin inside looks thickened.
+Dog is less active and sleeps more than usual.,Mobility Problems,Owner Observation,Dog is less active and sleeps more than usual.
+Dog started limping on his front left leg after playing.,Mobility Problems,Owner Observation,Dog started limping on his front left leg after playing.
+My guinea pig has crusty lesions near its mouth.,Skin Irritations,Owner Observation,My guinea pig has crusty lesions near its mouth.
+My dog's anal area is red and itchy; he scoots on the carpet.,Skin Irritations,Owner Observation,My dog's anal area is red and itchy; he scoots on the carpet.
+"I saw live, wriggling worms in my puppy's fresh poop.",Parasites,Owner Observation,"I saw live, wriggling worms in my puppy's fresh poop."
+My dog's joints make clicking or popping sounds.,Mobility Problems,Owner Observation,My dog's joints make clicking or popping sounds.
+Ferret is having difficulty climbing up ramps in his cage.,Mobility Problems,Owner Observation,Ferret is having difficulty climbing up ramps in his cage.
+My dog acts hungry but then sniffs his food and walks away.,Digestive Issues,Owner Observation,My dog acts hungry but then sniffs his food and walks away.
+Dog is straining in the yard but only passing small bits of liquid stool.,Digestive Issues,Owner Observation,Dog is straining in the yard but only passing small bits of liquid stool.
+Guinea pig has visible lice crawling on its hair shafts.,Parasites,Owner Observation,Guinea pig has visible lice crawling on its hair shafts.
+"Dog has lost his appetite and seems nauseous (licking lips, drooling).",Digestive Issues,Owner Observation,"Dog has lost his appetite and seems nauseous (licking lips, drooling)."
+My rabbit has developed a large swelling under its jaw.,Skin Irritations,Owner Observation,My rabbit has developed a large swelling under its jaw.
+"Cat's face looks droopy on one side, started with the ear trouble.",Ear Infections,Owner Observation,"Cat's face looks droopy on one side, started with the ear trouble."
+"My ferret is itchy, especially around his neck and shoulders.",Parasites,Owner Observation,"My ferret is itchy, especially around his neck and shoulders."
+Rabbit is shaking its head and digging at its ears.,Parasites,Owner Observation,Rabbit is shaking its head and digging at its ears.
+My puppy seems stiff when he wakes up.,Mobility Problems,Owner Observation,My puppy seems stiff when he wakes up.
+My dog's ear flap (pinna) is swollen like a balloon.,Ear Infections,Owner Observation,My dog's ear flap (pinna) is swollen like a balloon.
+"Cat is scratching the area below her ear, not directly inside.",Ear Infections,Owner Observation,"Cat is scratching the area below her ear, not directly inside."
+My dog has Babesia from a tick bite.,Parasites,Owner Observation,My dog has Babesia from a tick bite.
+"Cat has decreased appetite, possibly due to chronic pain.",Mobility Problems,Owner Observation,"Cat has decreased appetite, possibly due to chronic pain."
+"Ferret has fleas, needs treatment safe for ferrets.",Parasites,Owner Observation,"Ferret has fleas, needs treatment safe for ferrets."
+"My puppy is trying to vomit but only dry heaving, and his belly looks swollen.",Digestive Issues,Owner Observation,"My puppy is trying to vomit but only dry heaving, and his belly looks swollen."
+Puppy has a rash in his groin area.,Skin Irritations,Owner Observation,Puppy has a rash in his groin area.
+My cat shakes her head violently right after I put the ear drops in.,Ear Infections,Owner Observation,My cat shakes her head violently right after I put the ear drops in.
+Cat has swollen joints.,Mobility Problems,Owner Observation,Cat has swollen joints.
+I saw spaghetti-like worms in my puppy's vomit.,Parasites,Owner Observation,I saw spaghetti-like worms in my puppy's vomit.
+"My dog is restless and pacing, seems uncomfortable after eating.",Digestive Issues,Owner Observation,"My dog is restless and pacing, seems uncomfortable after eating."
+My ferret's ear discharge smells sweet/yeasty.,Ear Infections,Owner Observation,My ferret's ear discharge smells sweet/yeasty.
+My hamster is losing fur around its eyes.,Skin Irritations,Owner Observation,My hamster is losing fur around its eyes.
+My cat is drinking tons of water and vomited twice yesterday.,Digestive Issues,Owner Observation,My cat is drinking tons of water and vomited twice yesterday.
+Cat seems completely deaf in the affected ear.,Ear Infections,Owner Observation,Cat seems completely deaf in the affected ear.
+"Rabbit has stopped grooming, coat looks messy.",Digestive Issues,Owner Observation,"Rabbit has stopped grooming, coat looks messy."
+My dog chewed up a plastic toy and is now lethargic and gagging.,Digestive Issues,Owner Observation,My dog chewed up a plastic toy and is now lethargic and gagging.
+"Cat moves with a stiff, hunched posture.",Mobility Problems,Owner Observation,"Cat moves with a stiff, hunched posture."
+My parrot was diagnosed with Giardia.,Parasites,Owner Observation,My parrot was diagnosed with Giardia.
+My dog's skin turns bright red after he eats certain treats.,Skin Irritations,Owner Observation,My dog's skin turns bright red after he eats certain treats.
+Noticed small bumps and scabs on my puppy's back.,Skin Irritations,Owner Observation,Noticed small bumps and scabs on my puppy's back.
+Cat is licking a specific joint excessively.,Mobility Problems,Owner Observation,Cat is licking a specific joint excessively.
+"My rabbit's skin seems very dry and flaky, especially on its ears.",Skin Irritations,Owner Observation,"My rabbit's skin seems very dry and flaky, especially on its ears."
+"Kitten has pale gums and is very sleepy, worried about fleas.",Parasites,Owner Observation,"Kitten has pale gums and is very sleepy, worried about fleas."
+"My dog is a Cocker Spaniel, and I know they are prone to ear problems.",Ear Infections,Owner Observation,"My dog is a Cocker Spaniel, and I know they are prone to ear problems."
+"Cat has symmetrical hair loss on her flanks, no apparent itching.",Skin Irritations,Owner Observation,"Cat has symmetrical hair loss on her flanks, no apparent itching."
+"Guinea pig has soft, smelly droppings.",Digestive Issues,Owner Observation,"Guinea pig has soft, smelly droppings."
+My senior cat hasn't pooped in four days and seems uncomfortable.,Digestive Issues,Owner Observation,My senior cat hasn't pooped in four days and seems uncomfortable.
+My puppy has diarrhea and the vet found Coccidia in his stool sample.,Parasites,Owner Observation,My puppy has diarrhea and the vet found Coccidia in his stool sample.
+My dog has a circular lesion that is healing in the center but spreading outward.,Skin Irritations,Owner Observation,My dog has a circular lesion that is healing in the center but spreading outward.
+Cat seems overly sensitive to loud noises lately.,Ear Infections,Owner Observation,Cat seems overly sensitive to loud noises lately.
+My cat has sores in the corners of her mouth.,Skin Irritations,Owner Observation,My cat has sores in the corners of her mouth.
+Ferret is tilting its head slightly to the left.,Ear Infections,Owner Observation,Ferret is tilting its head slightly to the left.
+My dog has ear mites confirmed by the vet.,Parasites,Owner Observation,My dog has ear mites confirmed by the vet.
+My dog requires treatment for heartworm infection.,Parasites,Owner Observation,My dog requires treatment for heartworm infection.
+My puppy drags his rear end on the carpet after pooping.,Parasites,Owner Observation,My puppy drags his rear end on the carpet after pooping.
+"Cat isn't grooming her hindquarters well, fur looks matted.",Mobility Problems,Owner Observation,"Cat isn't grooming her hindquarters well, fur looks matted."
+Puppy has on-and-off diarrhea since we brought him home.,Digestive Issues,Owner Observation,Puppy has on-and-off diarrhea since we brought him home.
+Cat has hair loss and redness between the toes.,Skin Irritations,Owner Observation,Cat has hair loss and redness between the toes.
+"Cat is scratching under her chin, causing sores and hair loss.",Skin Irritations,Owner Observation,"Cat is scratching under her chin, causing sores and hair loss."
+"Guinea pig has intense itching fits, sometimes seems like a seizure.",Skin Irritations,Owner Observation,"Guinea pig has intense itching fits, sometimes seems like a seizure."
+My cat is drinking excessive amounts of water and vomiting frequently.,Digestive Issues,Owner Observation,My cat is drinking excessive amounts of water and vomiting frequently.
+"Dog has dry, brittle hair coat and flaky skin.",Skin Irritations,Owner Observation,"Dog has dry, brittle hair coat and flaky skin."
+My puppy scoots his bottom on the floor frequently.,Parasites,Owner Observation,My puppy scoots his bottom on the floor frequently.
+"My rabbit is leaving large, soft, uneaten cecotropes around.",Digestive Issues,Owner Observation,"My rabbit is leaving large, soft, uneaten cecotropes around."
+My puppy ate some mushrooms in the yard and is now vomiting.,Digestive Issues,Owner Observation,My puppy ate some mushrooms in the yard and is now vomiting.
+My cat scratches herself raw around the collar area.,Skin Irritations,Owner Observation,My cat scratches herself raw around the collar area.
+My dog has developed a head tilt.,Mobility Problems,Owner Observation,My dog has developed a head tilt.
+Puppy fecal exam positive for both roundworms and hookworms.,Parasites,Owner Observation,Puppy fecal exam positive for both roundworms and hookworms.
+My cat has flaky skin that seems to move when you watch it closely.,Parasites,Owner Observation,My cat has flaky skin that seems to move when you watch it closely.
+My small dog has Legg-Calve-Perthes causing hip pain.,Mobility Problems,Owner Observation,My small dog has Legg-Calve-Perthes causing hip pain.
+My rabbit stopped eating his pellets and cecotropes are sticking to his fur.,Digestive Issues,Owner Observation,My rabbit stopped eating his pellets and cecotropes are sticking to his fur.
+Rabbit has lost bladder/bowel control.,Mobility Problems,Owner Observation,Rabbit has lost bladder/bowel control.
+Guinea pig has hair loss on its nose.,Skin Irritations,Owner Observation,Guinea pig has hair loss on its nose.
+"Cat keeps gagging like she has a hairball, but nothing comes out.",Digestive Issues,Owner Observation,"Cat keeps gagging like she has a hairball, but nothing comes out."
+My dog had ear canal ablation surgery due to end-stage condition.,Ear Infections,Owner Observation,My dog had ear canal ablation surgery due to end-stage condition.
+"Dog has hair loss on the tail, looks like a 'rat tail'.",Skin Irritations,Owner Observation,"Dog has hair loss on the tail, looks like a 'rat tail'."
+My cat has chronic diarrhea that responds temporarily to antibiotics.,Digestive Issues,Owner Observation,My cat has chronic diarrhea that responds temporarily to antibiotics.
+Kitten's fecal test showed hookworm eggs.,Parasites,Owner Observation,Kitten's fecal test showed hookworm eggs.
+"My cat has chronic diarrhea, improves with antibiotics but returns.",Digestive Issues,Owner Observation,"My cat has chronic diarrhea, improves with antibiotics but returns."
+My puppy has what looks like acne on his belly.,Skin Irritations,Owner Observation,My puppy has what looks like acne on his belly.
+My dog has Wobbler syndrome.,Mobility Problems,Owner Observation,My dog has Wobbler syndrome.
+Guinea pig is frantically scratching and seems distressed.,Parasites,Owner Observation,Guinea pig is frantically scratching and seems distressed.
+Rabbit is tilting its head and seems off balance.,Mobility Problems,Owner Observation,Rabbit is tilting its head and seems off balance.
+"The fur on my cat's tail base is thinning, and the skin looks irritated.",Skin Irritations,Owner Observation,"The fur on my cat's tail base is thinning, and the skin looks irritated."
+Cat meows loudly if I accidentally brush against her lower back.,Mobility Problems,Owner Observation,Cat meows loudly if I accidentally brush against her lower back.
+My dog has developed skin tags all over his body.,Skin Irritations,Owner Observation,My dog has developed skin tags all over his body.
+My dog has myasthenia gravis causing weakness.,Mobility Problems,Owner Observation,My dog has myasthenia gravis causing weakness.
+"Dog is chewing his hindquarters raw, right above the tail.",Skin Irritations,Owner Observation,"Dog is chewing his hindquarters raw, right above the tail."
+"Dog has hearing loss in one ear due to chronic, untreated infections.",Ear Infections,Owner Observation,"Dog has hearing loss in one ear due to chronic, untreated infections."
+"Guinea pig has white, dust-like particles in its fur.",Parasites,Owner Observation,"Guinea pig has white, dust-like particles in its fur."
+"My dog's stomach is making loud gurgling noises, and he seems uncomfortable.",Digestive Issues,Owner Observation,"My dog's stomach is making loud gurgling noises, and he seems uncomfortable."
+My dog shakes his head mostly right after he gets up from sleeping.,Ear Infections,Owner Observation,My dog shakes his head mostly right after he gets up from sleeping.
+Cat has neurological signs attributed to a middle ear infection.,Ear Infections,Owner Observation,Cat has neurological signs attributed to a middle ear infection.
+"Puppy has a dull, rough coat and seems underweight.",Parasites,Owner Observation,"Puppy has a dull, rough coat and seems underweight."
+Dog has a bad smell from his skin folds.,Skin Irritations,Owner Observation,Dog has a bad smell from his skin folds.
+Rabbit is reluctant to move.,Ear Infections,Owner Observation,Rabbit is reluctant to move.
+"Puppy vomited his dinner whole, hours after eating.",Digestive Issues,Owner Observation,"Puppy vomited his dinner whole, hours after eating."
+My cat is drooling a lot and seems to have trouble swallowing.,Digestive Issues,Owner Observation,My cat is drooling a lot and seems to have trouble swallowing.
+"Ferret has very dry, flaky skin all over.",Skin Irritations,Owner Observation,"Ferret has very dry, flaky skin all over."
+Rabbit fecal shows pinworm eggs (Passalurus ambiguus).,Parasites,Owner Observation,Rabbit fecal shows pinworm eggs (Passalurus ambiguus).
+"Cat suddenly lost use of her back legs, they feel cold.",Mobility Problems,Owner Observation,"Cat suddenly lost use of her back legs, they feel cold."
+Puppy is underweight for his breed and has chronic loose stool.,Digestive Issues,Owner Observation,Puppy is underweight for his breed and has chronic loose stool.
+Dog gets intensely itchy and breaks out in hives after just one flea bite.,Parasites,Owner Observation,Dog gets intensely itchy and breaks out in hives after just one flea bite.
+My puppy whines and pulls away when I try to touch his ears.,Ear Infections,Owner Observation,My puppy whines and pulls away when I try to touch his ears.
+"Cat shakes her head a lot and there's dark, crumbly stuff in her ears.",Parasites,Owner Observation,"Cat shakes her head a lot and there's dark, crumbly stuff in her ears."
+My rabbit has thick white crusts inside its ears.,Parasites,Owner Observation,My rabbit has thick white crusts inside its ears.
+My puppy was dewormed but still has occasional diarrhea.,Parasites,Owner Observation,My puppy was dewormed but still has occasional diarrhea.
+"My dog has developed skin tags, especially on his chest and legs.",Skin Irritations,Owner Observation,"My dog has developed skin tags, especially on his chest and legs."
+My dog has developed a growth on his eyelid margin.,Skin Irritations,Owner Observation,My dog has developed a growth on his eyelid margin.
+Found things that look like dried rice stuck near my dog's butt.,Parasites,Owner Observation,Found things that look like dried rice stuck near my dog's butt.
+"Cat has a poor appetite, which might be due to chronic joint pain.",Mobility Problems,Owner Observation,"Cat has a poor appetite, which might be due to chronic joint pain."
+"My cat vomits clear or white foam, usually in the morning.",Digestive Issues,Owner Observation,"My cat vomits clear or white foam, usually in the morning."
+"Cat finally coughed up a huge, dense hairball.",Digestive Issues,Owner Observation,"Cat finally coughed up a huge, dense hairball."
+My cat has dandruff-like flakes all over her black fur.,Skin Irritations,Owner Observation,My cat has dandruff-like flakes all over her black fur.
+My cat vomited something that looked like a grain of rice.,Parasites,Owner Observation,My cat vomited something that looked like a grain of rice.
+"My cat vomits white foam occasionally, unrelated to meals.",Digestive Issues,Owner Observation,"My cat vomits white foam occasionally, unrelated to meals."
+My dog's ear infection spread to the other ear.,Ear Infections,Owner Observation,My dog's ear infection spread to the other ear.
+"Rabbit isn't using its litter box, just staying in one spot.",Mobility Problems,Owner Observation,"Rabbit isn't using its litter box, just staying in one spot."
+My cat started shaking her head right after coming back from the groomer.,Ear Infections,Owner Observation,My cat started shaking her head right after coming back from the groomer.
+"My ferret is grinding its teeth and has dark, tarry stools.",Digestive Issues,Owner Observation,"My ferret is grinding its teeth and has dark, tarry stools."
+Rabbit struggles and seems painful when I try to pick it up.,Mobility Problems,Owner Observation,Rabbit struggles and seems painful when I try to pick it up.
+"Puppy has small, pus-filled bumps on his belly and groin.",Skin Irritations,Owner Observation,"Puppy has small, pus-filled bumps on his belly and groin."
+Rabbit's belly feels hard and distended.,Digestive Issues,Owner Observation,Rabbit's belly feels hard and distended.
+Dog's ear canal bleeds when I try to clean it gently.,Ear Infections,Owner Observation,Dog's ear canal bleeds when I try to clean it gently.
+"My cat's ears have a really strong, yeasty smell.",Ear Infections,Owner Observation,"My cat's ears have a really strong, yeasty smell."
+Cat flinches and tensees up when I touch her belly.,Digestive Issues,Owner Observation,Cat flinches and tensees up when I touch her belly.
+My dog slipped a disc and needs crate rest.,Mobility Problems,Owner Observation,My dog slipped a disc and needs crate rest.
+My dog's hips make a popping sound when he walks.,Mobility Problems,Owner Observation,My dog's hips make a popping sound when he walks.
+My rabbit's ear is drooping.,Ear Infections,Owner Observation,My rabbit's ear is drooping.
+Puppy's ears feel warmer than the rest of his body.,Ear Infections,Owner Observation,Puppy's ears feel warmer than the rest of his body.
+My dog won't stop shaking his head and flapping his ears.,Ear Infections,Owner Observation,My dog won't stop shaking his head and flapping his ears.
+Cat no longer jumps up onto counters or windowsills.,Mobility Problems,Owner Observation,Cat no longer jumps up onto counters or windowsills.
+My rabbit is producing 'string of pearls' feces (hair linked together).,Digestive Issues,Owner Observation,My rabbit is producing 'string of pearls' feces (hair linked together).
+My ferret seems lethargic because of the ear issue.,Ear Infections,Owner Observation,My ferret seems lethargic because of the ear issue.
+My puppy might have a foxtail or grass seed stuck down in his ear.,Ear Infections,Owner Observation,My puppy might have a foxtail or grass seed stuck down in his ear.
+My ferret has scabs around its neck and shoulders.,Skin Irritations,Owner Observation,My ferret has scabs around its neck and shoulders.
+My dog's back seems hunched or arched.,Mobility Problems,Owner Observation,My dog's back seems hunched or arched.
+My dog has a sudden inability to walk (paralysis).,Mobility Problems,Owner Observation,My dog has a sudden inability to walk (paralysis).
+"Rabbit seems depressed and isn't eating much, maybe pain related.",Mobility Problems,Owner Observation,"Rabbit seems depressed and isn't eating much, maybe pain related."
+My dog avoids the hardwood floors and prefers rugs.,Mobility Problems,Owner Observation,My dog avoids the hardwood floors and prefers rugs.
+Puppy has Demodex mites causing localized hair loss.,Parasites,Owner Observation,Puppy has Demodex mites causing localized hair loss.
+Cat has suddenly become very picky about food.,Digestive Issues,Owner Observation,Cat has suddenly become very picky about food.
+My dog has a decreased appetite and seems generally unwell.,Digestive Issues,Owner Observation,My dog has a decreased appetite and seems generally unwell.
+My cat has tapeworm segments appearing intermittently.,Parasites,Owner Observation,My cat has tapeworm segments appearing intermittently.
+"My dog pants excessively, even when resting.",Mobility Problems,Owner Observation,"My dog pants excessively, even when resting."
+My dog's tail has become completely bald (rat tail).,Skin Irritations,Owner Observation,My dog's tail has become completely bald (rat tail).
+"Noticed a small, wart-like growth on my dog's eyelid.",Skin Irritations,Owner Observation,"Noticed a small, wart-like growth on my dog's eyelid."
+My dog's nose leather is cracked and dry.,Skin Irritations,Owner Observation,My dog's nose leather is cracked and dry.
+"Kitten is sneezing frequently, could it be a nasal parasite?",Parasites,Owner Observation,"Kitten is sneezing frequently, could it be a nasal parasite?"
+My cat is walking with her head tilted sharply to the right.,Ear Infections,Owner Observation,My cat is walking with her head tilted sharply to the right.
+Cat growls or hisses when I try to pet her lower back or hips.,Mobility Problems,Owner Observation,Cat growls or hisses when I try to pet her lower back or hips.
+Ferret has lost almost all the hair on its tail.,Skin Irritations,Owner Observation,Ferret has lost almost all the hair on its tail.
+Puppy vomited a piece of a toy.,Digestive Issues,Owner Observation,Puppy vomited a piece of a toy.
+My rabbit’s hind legs shake when hopping.,Mobility Problems,Owner Observation,My rabbit’s hind legs shake when hopping.
+My rabbit is producing fecal pellets linked by strands of hair.,Digestive Issues,Owner Observation,My rabbit is producing fecal pellets linked by strands of hair.
+"My rabbit is stretching out frequently, looks uncomfortable.",Digestive Issues,Owner Observation,"My rabbit is stretching out frequently, looks uncomfortable."
+"Dog has red bumps all over his belly, and I found black 'dirt' that smears red.",Parasites,Owner Observation,"Dog has red bumps all over his belly, and I found black 'dirt' that smears red."
+Rabbit has crusting and hair loss around the ear base.,Ear Infections,Owner Observation,Rabbit has crusting and hair loss around the ear base.
+Cat has vestibular signs that started suddenly.,Ear Infections,Owner Observation,Cat has vestibular signs that started suddenly.
+My cat has resistant ear mites.,Parasites,Owner Observation,My cat has resistant ear mites.
+My puppy has floppy ears that don't get much air circulation.,Ear Infections,Owner Observation,My puppy has floppy ears that don't get much air circulation.
+My dog has allergies and gets ear infections frequently.,Ear Infections,Owner Observation,My dog has allergies and gets ear infections frequently.
+My guinea pig’s ears have dark wax and smell bad.,Ear Infections,Owner Observation,My guinea pig’s ears have dark wax and smell bad.
+My dog has Lyme arthritis causing lameness that shifts legs.,Mobility Problems,Owner Observation,My dog has Lyme arthritis causing lameness that shifts legs.
+"My Doberman has Wobbler's, causing a clumsy gait.",Mobility Problems,Owner Observation,"My Doberman has Wobbler's, causing a clumsy gait."
+"My dog had an infection in one ear, now the other one seems affected too.",Ear Infections,Owner Observation,"My dog had an infection in one ear, now the other one seems affected too."
+"My ferret is lethargic and passing dark, sticky feces.",Digestive Issues,Owner Observation,"My ferret is lethargic and passing dark, sticky feces."
+"My cat hunts mice, should I be worried about worms?",Parasites,Owner Observation,"My cat hunts mice, should I be worried about worms?"
+My dog has heartworm condition and needs treatment.,Parasites,Owner Observation,My dog has heartworm condition and needs treatment.
+My puppy's ears need regular cleaning to prevent issues.,Ear Infections,Owner Observation,My puppy's ears need regular cleaning to prevent issues.
+My cat has inflammation deep in the ear canal.,Ear Infections,Owner Observation,My cat has inflammation deep in the ear canal.
+My bird is plucking its own feathers out.,Parasites,Owner Observation,My bird is plucking its own feathers out.
+Rabbit has Passalurus ambiguus (pinworms).,Parasites,Owner Observation,Rabbit has Passalurus ambiguus (pinworms).
+My indoor-only cat somehow got fleas.,Parasites,Owner Observation,My indoor-only cat somehow got fleas.
+"My cat has intermittent constipation, goes several days without defecating.",Digestive Issues,Owner Observation,"My cat has intermittent constipation, goes several days without defecating."
+My dog has dandruff-like scales along his back.,Parasites,Owner Observation,My dog has dandruff-like scales along his back.
+My cat's skin irritation (miliary dermatitis) is caused by fleas.,Parasites,Owner Observation,My cat's skin irritation (miliary dermatitis) is caused by fleas.
+My hamster has diarrhea and a wet tail area.,Digestive Issues,Owner Observation,My hamster has diarrhea and a wet tail area.
+"My dog's breath smells unusually foul, almost like sewage.",Digestive Issues,Owner Observation,"My dog's breath smells unusually foul, almost like sewage."
+My dog has progressive hind limb weakness diagnosed as DM.,Mobility Problems,Owner Observation,My dog has progressive hind limb weakness diagnosed as DM.
+Pet’s belly is distended and he’s lethargic.,Digestive Issues,Owner Observation,Pet’s belly is distended and he’s lethargic.
+"My rabbit has thick, honey-colored crusts filling its ear canals.",Parasites,Owner Observation,"My rabbit has thick, honey-colored crusts filling its ear canals."
+"My cat has Toxoplasma antibodies, need to discuss risks.",Parasites,Owner Observation,"My cat has Toxoplasma antibodies, need to discuss risks."
+My rabbit's appetite has slowly decreased over several days.,Digestive Issues,Owner Observation,My rabbit's appetite has slowly decreased over several days.
+My dog injured his back (IVDD) and requires strict rest.,Mobility Problems,Owner Observation,My dog injured his back (IVDD) and requires strict rest.
+Ferret is scratching under its arms.,Skin Irritations,Owner Observation,Ferret is scratching under its arms.
+Kitten still has diarrhea despite multiple deworming treatments.,Parasites,Owner Observation,Kitten still has diarrhea despite multiple deworming treatments.
+"Dog coughs sometimes, vet mentioned possible heartworm or lungworm.",Parasites,Owner Observation,"Dog coughs sometimes, vet mentioned possible heartworm or lungworm."
+"Dog shivers or trembles, seems like he's in pain.",Mobility Problems,Owner Observation,"Dog shivers or trembles, seems like he's in pain."
+Cat has arthritis secondary to previous injury.,Mobility Problems,Owner Observation,Cat has arthritis secondary to previous injury.
+"Kitten has severe, bloody diarrhea caused by Coccidia.",Parasites,Owner Observation,"Kitten has severe, bloody diarrhea caused by Coccidia."
+Cat has shown no interest in food for 24 hours.,Digestive Issues,Owner Observation,Cat has shown no interest in food for 24 hours.
+Ferret has thinning fur overall.,Skin Irritations,Owner Observation,Ferret has thinning fur overall.
+My cat seems off balance and walks in circles sometimes.,Ear Infections,Owner Observation,My cat seems off balance and walks in circles sometimes.
+"My rabbit has soft, unformed droppings instead of normal pellets.",Digestive Issues,Owner Observation,"My rabbit has soft, unformed droppings instead of normal pellets."
+Cat shows pain when her spine is gently pressed.,Mobility Problems,Owner Observation,Cat shows pain when her spine is gently pressed.
+"My rabbit's fur looks like it has dandruff, but the flakes are moving!",Parasites,Owner Observation,"My rabbit's fur looks like it has dandruff, but the flakes are moving!"
+Cat is hiding more and interacting less.,Mobility Problems,Owner Observation,Cat is hiding more and interacting less.
+My cat started peeing next to the litter box instead of climbing in.,Mobility Problems,Owner Observation,My cat started peeing next to the litter box instead of climbing in.
+My cat was diagnosed with lungworm after chronic respiratory signs.,Parasites,Owner Observation,My cat was diagnosed with lungworm after chronic respiratory signs.
+"Guinea pig has lice, visible as small white dots.",Parasites,Owner Observation,"Guinea pig has lice, visible as small white dots."
+Guinea pig has dandruff that seems to be moving.,Parasites,Owner Observation,Guinea pig has dandruff that seems to be moving.
+My rabbit vomited a small amount of green fluid.,Digestive Issues,Owner Observation,My rabbit vomited a small amount of green fluid.
+Dog has swimmer's ear.,Ear Infections,Owner Observation,Dog has swimmer's ear.
+My dog gets ear infections every summer after swimming in the lake.,Ear Infections,Owner Observation,My dog gets ear infections every summer after swimming in the lake.
+Ferret has diarrhea and is dehydrated.,Digestive Issues,Owner Observation,Ferret has diarrhea and is dehydrated.
+My dog has Ehrlichia from a tick.,Parasites,Owner Observation,My dog has Ehrlichia from a tick.
+"My cat had ear polyps removed before, worried they are back.",Ear Infections,Owner Observation,"My cat had ear polyps removed before, worried they are back."
+My puppy had roundworms treated but still has diarrhea.,Parasites,Owner Observation,My puppy had roundworms treated but still has diarrhea.
+Found a flea on myself after petting the cat.,Parasites,Owner Observation,Found a flea on myself after petting the cat.
+My cat has sores appearing on her paw pads.,Skin Irritations,Owner Observation,My cat has sores appearing on her paw pads.
+My dog's knees look puffy and feel warm.,Mobility Problems,Owner Observation,My dog's knees look puffy and feel warm.
+Puppy has redness and irritation around his genitals.,Skin Irritations,Owner Observation,Puppy has redness and irritation around his genitals.
+Cat has pain when her spine is palpated.,Mobility Problems,Owner Observation,Cat has pain when her spine is palpated.
+Dog has developed hives all over his body after rolling in the grass.,Skin Irritations,Owner Observation,Dog has developed hives all over his body after rolling in the grass.
+My dog pants heavily even when resting indoors.,Mobility Problems,Owner Observation,My dog pants heavily even when resting indoors.
+My dog's back legs seem weak and sometimes give out.,Mobility Problems,Owner Observation,My dog's back legs seem weak and sometimes give out.
+Cat has diarrhea after getting into the dog's food.,Digestive Issues,Owner Observation,Cat has diarrhea after getting into the dog's food.
+Guinea pig has flaky skin and hair loss on its rump.,Skin Irritations,Owner Observation,Guinea pig has flaky skin and hair loss on its rump.
+My guinea pig's droppings are much smaller and fewer than usual.,Digestive Issues,Owner Observation,My guinea pig's droppings are much smaller and fewer than usual.
+My dog has blackheads and pimples on his muzzle.,Skin Irritations,Owner Observation,My dog has blackheads and pimples on his muzzle.
+Cat has vomited multiple times in the last hour.,Digestive Issues,Owner Observation,Cat has vomited multiple times in the last hour.
+My rabbit has crusty sores around its nose and mouth.,Skin Irritations,Owner Observation,My rabbit has crusty sores around its nose and mouth.
+Guinea pig is losing weight and has diarrhea.,Digestive Issues,Owner Observation,Guinea pig is losing weight and has diarrhea.
+"My dog licks his paws raw, vet mentioned possible mites.",Parasites,Owner Observation,"My dog licks his paws raw, vet mentioned possible mites."
+My dog begs for food but then walks away when I offer it.,Digestive Issues,Owner Observation,My dog begs for food but then walks away when I offer it.
+Cat's skin seems very thin and tears easily.,Skin Irritations,Owner Observation,Cat's skin seems very thin and tears easily.
+"My dog is frantically chewing at his hind end, and I see little black specks in his fur.",Parasites,Owner Observation,"My dog is frantically chewing at his hind end, and I see little black specks in his fur."
+There's yellowish pus draining from my puppy's ear.,Ear Infections,Owner Observation,There's yellowish pus draining from my puppy's ear.
+My dog has patellar luxation (kneecap slips).,Mobility Problems,Owner Observation,My dog has patellar luxation (kneecap slips).
+Dog has hair loss in a pattern that follows the leash/collar line.,Skin Irritations,Owner Observation,Dog has hair loss in a pattern that follows the leash/collar line.
+Puppy's ears always seem damp and dirty inside.,Ear Infections,Owner Observation,Puppy's ears always seem damp and dirty inside.
+"My dog licks his front paws incessantly, vet mentioned possible Demodex.",Parasites,Owner Observation,"My dog licks his front paws incessantly, vet mentioned possible Demodex."
+Cat spends most of her time sleeping in secluded spots.,Mobility Problems,Owner Observation,Cat spends most of her time sleeping in secluded spots.
+My dog has degenerative myelopathy (DM).,Mobility Problems,Owner Observation,My dog has degenerative myelopathy (DM).
+"My dog just seems 'off' - lethargic, poor appetite.",Digestive Issues,Owner Observation,"My dog just seems 'off' - lethargic, poor appetite."
+Dog's skin is sensitive to touch in certain areas.,Skin Irritations,Owner Observation,Dog's skin is sensitive to touch in certain areas.
+Guinea pig hasn't produced any droppings in 24 hours.,Digestive Issues,Owner Observation,Guinea pig hasn't produced any droppings in 24 hours.
+"Kitten has flaky skin, like bad dandruff.",Skin Irritations,Owner Observation,"Kitten has flaky skin, like bad dandruff."
+"Cat is excessively grooming her belly, making it bald.",Parasites,Owner Observation,"Cat is excessively grooming her belly, making it bald."
+My Siamese cat is developing crusty lesions on her ear tips and nose.,Skin Irritations,Owner Observation,My Siamese cat is developing crusty lesions on her ear tips and nose.
+"Rabbit has lost fur on its nose, looks sore.",Parasites,Owner Observation,"Rabbit has lost fur on its nose, looks sore."
+"My hamster is scratching a lot and has dry, flaky skin.",Parasites,Owner Observation,"My hamster is scratching a lot and has dry, flaky skin."
+"Rabbit is only eating greens, refusing hay.",Digestive Issues,Owner Observation,"Rabbit is only eating greens, refusing hay."
+Rabbit has become incontinent (urine and feces).,Mobility Problems,Owner Observation,Rabbit has become incontinent (urine and feces).
+"Dog has pale, clay-colored stools.",Digestive Issues,Owner Observation,"Dog has pale, clay-colored stools."
+Ferret is walking with a stiff gait.,Mobility Problems,Owner Observation,Ferret is walking with a stiff gait.
+Puppy constantly has dirty ears despite regular cleaning.,Ear Infections,Owner Observation,Puppy constantly has dirty ears despite regular cleaning.
+My rabbit shakes its head frequently.,Ear Infections,Owner Observation,My rabbit shakes its head frequently.
+My cat has Giardia and needs medication.,Parasites,Owner Observation,My cat has Giardia and needs medication.
+My hamster's droppings are stuck together.,Digestive Issues,Owner Observation,My hamster's droppings are stuck together.
+"Found a long, segmented worm in the dog's stool this morning.",Parasites,Owner Observation,"Found a long, segmented worm in the dog's stool this morning."
+"Dog seems nauseous (drooling, lip smacking) and refused his favorite treat.",Digestive Issues,Owner Observation,"Dog seems nauseous (drooling, lip smacking) and refused his favorite treat."
+"Cat has tiny scabs all over her back, feels like sandpaper.",Parasites,Owner Observation,"Cat has tiny scabs all over her back, feels like sandpaper."
+"Cat has chronic intermittent vomiting, maybe once or twice a week.",Digestive Issues,Owner Observation,"Cat has chronic intermittent vomiting, maybe once or twice a week."
+My ferret seems generally unwell since the ear problem started.,Ear Infections,Owner Observation,My ferret seems generally unwell since the ear problem started.
+My puppy has had soft stools since we adopted him from the shelter.,Digestive Issues,Owner Observation,My puppy has had soft stools since we adopted him from the shelter.
+Rabbit seems unable to move its hind legs properly.,Mobility Problems,Owner Observation,Rabbit seems unable to move its hind legs properly.
+My dog has Lyme condition causing shifting leg lameness.,Mobility Problems,Owner Observation,My dog has Lyme condition causing shifting leg lameness.
+My rabbit keeps shaking its head back and forth.,Ear Infections,Owner Observation,My rabbit keeps shaking its head back and forth.
+"My dog seems sensitive around his head, flinches when petted near ears.",Ear Infections,Owner Observation,"My dog seems sensitive around his head, flinches when petted near ears."
+My dog has diarrhea every time he gets stressed.,Digestive Issues,Owner Observation,My dog has diarrhea every time he gets stressed.
+My cat vomited part of a houseplant leaf.,Digestive Issues,Owner Observation,My cat vomited part of a houseplant leaf.
+Saw bright red blood coating my dog's otherwise normal stool.,Digestive Issues,Owner Observation,Saw bright red blood coating my dog's otherwise normal stool.
+My Dachshund has back problems (IVDD).,Mobility Problems,Owner Observation,My Dachshund has back problems (IVDD).
+Cat hasn't touched her food in over 24 hours.,Digestive Issues,Owner Observation,Cat hasn't touched her food in over 24 hours.
+My cat keeps getting tapeworms even though I treat her.,Parasites,Owner Observation,My cat keeps getting tapeworms even though I treat her.
+"My rabbit has white, flaky material inside the ear canals.",Ear Infections,Owner Observation,"My rabbit has white, flaky material inside the ear canals."
+My dog's gait looks wobbly or uncoordinated.,Mobility Problems,Owner Observation,My dog's gait looks wobbly or uncoordinated.
+"Dog has chronic itching, mostly involving feet, face, and ears.",Skin Irritations,Owner Observation,"Dog has chronic itching, mostly involving feet, face, and ears."
+My rabbit has maggots visible near its hind end.,Parasites,Owner Observation,My rabbit has maggots visible near its hind end.
+My cat has recurrent ear mite infestations.,Parasites,Owner Observation,My cat has recurrent ear mite infestations.
+Puppy is being treated for scabies (Sarcoptic mange).,Parasites,Owner Observation,Puppy is being treated for scabies (Sarcoptic mange).
+Dog has a growth or polyp visible inside the ear canal.,Ear Infections,Owner Observation,Dog has a growth or polyp visible inside the ear canal.
+My dog was diagnosed with arthritis in his hips and knees.,Mobility Problems,Owner Observation,My dog was diagnosed with arthritis in his hips and knees.
+Rabbit has lost fur on its nose.,Parasites,Owner Observation,Rabbit has lost fur on its nose.
+"Cat is constipated, passing very hard, dry stools.",Digestive Issues,Owner Observation,"Cat is constipated, passing very hard, dry stools."
+My hamster seems to have greasy fur and is losing hair on its back.,Skin Irritations,Owner Observation,My hamster seems to have greasy fur and is losing hair on its back.
+"Dog has a persistent cough, vet is testing for heartworm.",Parasites,Owner Observation,"Dog has a persistent cough, vet is testing for heartworm."
+"Dog has black spots appearing on his skin, mostly on the belly.",Skin Irritations,Owner Observation,"Dog has black spots appearing on his skin, mostly on the belly."
+My kitten has lost the fur on the bridge of her nose.,Skin Irritations,Owner Observation,My kitten has lost the fur on the bridge of her nose.
+Dog is straining to vomit (retching) without producing anything.,Digestive Issues,Owner Observation,Dog is straining to vomit (retching) without producing anything.
+My rabbit has ear canker (mites).,Parasites,Owner Observation,My rabbit has ear canker (mites).
+Ferret has lost significant weight recently.,Digestive Issues,Owner Observation,Ferret has lost significant weight recently.
+My dog tore his cruciate ligament (CCL/ACL).,Mobility Problems,Owner Observation,My dog tore his cruciate ligament (CCL/ACL).
+Pet’s ears are swollen and have a rancid odor.,Ear Infections,Owner Observation,Pet’s ears are swollen and have a rancid odor.
+"Cat has scabs all over her body, especially her back and neck.",Parasites,Owner Observation,"Cat has scabs all over her body, especially her back and neck."
+Dog has generalized demodicosis.,Parasites,Owner Observation,Dog has generalized demodicosis.
+My older dog is constipated and strains to defecate.,Digestive Issues,Owner Observation,My older dog is constipated and strains to defecate.
+Dog ate something from the trash and now has explosive diarrhea.,Digestive Issues,Owner Observation,Dog ate something from the trash and now has explosive diarrhea.
+Noticed bright red blood streaks in my cat's poop.,Digestive Issues,Owner Observation,Noticed bright red blood streaks in my cat's poop.
+"Puppy has developed a circular, hairless lesion on its head.",Skin Irritations,Owner Observation,"Puppy has developed a circular, hairless lesion on its head."
+Cat developed a sudden head tilt overnight.,Ear Infections,Owner Observation,Cat developed a sudden head tilt overnight.
+My rabbit has pus coming from its eye on the same side as the ear problem.,Ear Infections,Owner Observation,My rabbit has pus coming from its eye on the same side as the ear problem.
+Cat seems painful in her abdomen when I pick her up.,Digestive Issues,Owner Observation,Cat seems painful in her abdomen when I pick her up.
+My cat has developed bald patches behind her ears.,Skin Irritations,Owner Observation,My cat has developed bald patches behind her ears.
+Rabbit has matted fur on its hind end with irritated skin underneath.,Skin Irritations,Owner Observation,Rabbit has matted fur on its hind end with irritated skin underneath.
+My hamster has developed a lump under its skin.,Skin Irritations,Owner Observation,My hamster has developed a lump under its skin.
+Cat has excessive flatulence and occasional vomiting.,Digestive Issues,Owner Observation,Cat has excessive flatulence and occasional vomiting.
+My cat has roundworms visible in her stool.,Parasites,Owner Observation,My cat has roundworms visible in her stool.
+"Dog is scratching himself raw, especially on his chest and belly.",Parasites,Owner Observation,"Dog is scratching himself raw, especially on his chest and belly."
+Rabbit has urine staining on its hind legs from poor posture.,Mobility Problems,Owner Observation,Rabbit has urine staining on its hind legs from poor posture.
+Cat has sores inside her mouth and drools excessively.,Skin Irritations,Owner Observation,Cat has sores inside her mouth and drools excessively.
+Rabbit has redness and hair loss on the soles of its back feet.,Skin Irritations,Owner Observation,Rabbit has redness and hair loss on the soles of its back feet.
+"Dog seems to have abdominal cramps (stretching, looking at belly).",Digestive Issues,Owner Observation,"Dog seems to have abdominal cramps (stretching, looking at belly)."
+My hamster's droppings are strung together with hair.,Digestive Issues,Owner Observation,My hamster's droppings are strung together with hair.
+Rabbit has arthritis in its spine (spondylosis).,Mobility Problems,Owner Observation,Rabbit has arthritis in its spine (spondylosis).
+My puppy ate a sock yesterday and is now vomiting.,Digestive Issues,Owner Observation,My puppy ate a sock yesterday and is now vomiting.
+My dog has trouble balancing.,Mobility Problems,Owner Observation,My dog has trouble balancing.
+"Ferret has thick, dark wax in both ears.",Ear Infections,Owner Observation,"Ferret has thick, dark wax in both ears."
+My dog has elbow dysplasia.,Mobility Problems,Owner Observation,My dog has elbow dysplasia.
+"Dog had sudden onset of profuse, watery diarrhea overnight.",Digestive Issues,Owner Observation,"Dog had sudden onset of profuse, watery diarrhea overnight."
+My cat won't let me clean her ears.,Ear Infections,Owner Observation,My cat won't let me clean her ears.
+Cat has scaly skin on her back.,Skin Irritations,Owner Observation,Cat has scaly skin on her back.
+Cat has hypertrophic osteodystrophy.,Mobility Problems,Owner Observation,Cat has hypertrophic osteodystrophy.
+My cat's skin twitches along her back and she suddenly runs off.,Skin Irritations,Owner Observation,My cat's skin twitches along her back and she suddenly runs off.
+Cat's ear canal looks extremely narrow and difficult to see into.,Ear Infections,Owner Observation,Cat's ear canal looks extremely narrow and difficult to see into.
+Cat is shaking her head and scratching furiously behind her ears; they look dirty inside.,Parasites,Owner Observation,Cat is shaking her head and scratching furiously behind her ears; they look dirty inside.
+My dog's limp improves with exercise but returns after rest.,Mobility Problems,Owner Observation,My dog's limp improves with exercise but returns after rest.
+My ferret's ear wax smells strangely sweet.,Ear Infections,Owner Observation,My ferret's ear wax smells strangely sweet.
+My dog's ear has a distinct 'corn chip' or 'yeasty bread' smell.,Ear Infections,Owner Observation,My dog's ear has a distinct 'corn chip' or 'yeasty bread' smell.
+"My cat has dark ear wax, but the vet ruled out mites.",Ear Infections,Owner Observation,"My cat has dark ear wax, but the vet ruled out mites."
+My dog has developed dark spots on his belly skin.,Skin Irritations,Owner Observation,My dog has developed dark spots on his belly skin.
+"My rabbit has a dirty bottom from soft, pasty stools.",Digestive Issues,Owner Observation,"My rabbit has a dirty bottom from soft, pasty stools."
+My dog sits down awkwardly ('puppy sitting') with one leg out.,Mobility Problems,Owner Observation,My dog sits down awkwardly ('puppy sitting') with one leg out.
+My rabbit has diarrhea after being introduced to new vegetables.,Digestive Issues,Owner Observation,My rabbit has diarrhea after being introduced to new vegetables.
+My cat has Horner's syndrome secondary to otitis media.,Ear Infections,Owner Observation,My cat has Horner's syndrome secondary to otitis media.
+My dog's nose looks crusty and has lost its pigment.,Skin Irritations,Owner Observation,My dog's nose looks crusty and has lost its pigment.
+"Cat is straining in the litter box, passing small, rock-hard feces.",Digestive Issues,Owner Observation,"Cat is straining in the litter box, passing small, rock-hard feces."
+Hamster has fecal staining around the anus.,Digestive Issues,Owner Observation,Hamster has fecal staining around the anus.
+My cat licks her fur off in stripes.,Skin Irritations,Owner Observation,My cat licks her fur off in stripes.
+Puppy hops with both back legs together like a bunny when running.,Mobility Problems,Owner Observation,Puppy hops with both back legs together like a bunny when running.
+"Dog has whipworms, needs special dewormer.",Parasites,Owner Observation,"Dog has whipworms, needs special dewormer."
+Puppy cries when I massage the base of his ears.,Ear Infections,Owner Observation,Puppy cries when I massage the base of his ears.
+My dog has lost hair above his tail base from constant biting.,Parasites,Owner Observation,My dog has lost hair above his tail base from constant biting.
+"Cat has had soft, mushy stool for the past two days.",Digestive Issues,Owner Observation,"Cat has had soft, mushy stool for the past two days."
+My cat paws at her ear after I apply the medication.,Ear Infections,Owner Observation,My cat paws at her ear after I apply the medication.
+"Pulled a fat, grey tick off my cat's neck after she came inside.",Parasites,Owner Observation,"Pulled a fat, grey tick off my cat's neck after she came inside."
+Dog has ticks in his ears.,Parasites,Owner Observation,Dog has ticks in his ears.
+"Cat is excessively grooming, leading to thin fur.",Skin Irritations,Owner Observation,"Cat is excessively grooming, leading to thin fur."
+Hamster has redness and irritation around its mouth.,Skin Irritations,Owner Observation,Hamster has redness and irritation around its mouth.
+"My dog keeps biting at his tail base, and his hair is thinning there.",Parasites,Owner Observation,"My dog keeps biting at his tail base, and his hair is thinning there."
